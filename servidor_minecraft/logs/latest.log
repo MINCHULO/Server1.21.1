@@ -123,3 +123,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:19:27] [Server thread/WARN]: Min_Chulo moved wrongly!
 [19:50:33] [Server thread/INFO]: The death_locations.yml file has been saved
 [19:50:33] [Server thread/INFO]: Min_Chulo was slain by Zombie
+[21:26:48] [Server thread/INFO]: Min_Chulo issued server command: /back
+[21:26:48] [Server thread/INFO]: The death_locations.yml file has been saved
+[21:26:51] [Server thread/INFO]: Min_Chulo issued server command: /back
