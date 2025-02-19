@@ -114,3 +114,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [18:27:10] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [18:27:14] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [18:30:09] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:andesite 64
+[18:37:14] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:sea_lantern 64
+[18:37:44] [Server thread/WARN]: Min_Chulo moved wrongly!
+[18:38:08] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:sea_lantern 64
