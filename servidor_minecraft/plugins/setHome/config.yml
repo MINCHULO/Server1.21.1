@@ -6,3 +6,11 @@ c64d5450-ef6c-3309-ac03-cff3f3f0edaf:
   z: -1220.6463530897431
   pitch: 3.247641
   yaw: 169.11737
+dc5bbb1e-d32f-3531-9bba-53d8b57094a7:
+  ==: org.bukkit.Location
+  world: world
+  x: -472.08634578717175
+  y: 70.0
+  z: -1218.4048126727598
+  pitch: 16.65005
+  yaw: 87.000244
