@@ -125,3 +125,17 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:13:09] [Server thread/INFO]: Toxcraft456 issued server command: /ec
 [17:13:23] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: ./craft
 [17:13:56] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[17:18:07] [Server thread/INFO]: Min_Chulo issued server command: /home
+[17:19:19] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[17:22:32] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[17:22:44] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[17:23:00] [Server thread/INFO]: Toxcraft456 has made the advancement [Is It a Bird?]
+[17:23:04] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[17:23:11] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[17:24:35] [Server thread/INFO]: Toxcraft456 issued server command: /craft
+[17:24:35] [Server thread/INFO]: [Essentials] Toxcraft456 was denied access to command.
+[17:25:06] [Server thread/INFO]: Toxcraft456 issued server command: /craft
+[17:25:06] [Server thread/INFO]: [Essentials] Toxcraft456 was denied access to command.
+[17:25:28] [Server thread/INFO]: Min_Chulo issued server command: /lp group default permission set essentials.craft
+[17:25:29] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[17:25:37] [Server thread/INFO]: Toxcraft456 has made the advancement [Who's the Pillager Now?]
