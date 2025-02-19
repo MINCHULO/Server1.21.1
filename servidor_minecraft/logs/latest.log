@@ -111,3 +111,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:56:34] [Server thread/INFO]: Min_Chulo[/127.90.1.150:41273] logged in with entity id 76 at ([world]-557.669880342654, 78.0, -1067.3412781087536)
 [17:56:35] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a364b4e0-d76a-4fea-95bd-29619318c8c6, mapped to Sheep['Sheep'/77, uuid='a364b4e0-d76a-4fea-95bd-29619318c8c6', l='ServerLevel[world]', x=-543.83, y=68.00, z=-1060.21, cpos=[-34, -67], tl=158572, v=true], can't add Sheep['Sheep'/78, uuid='a364b4e0-d76a-4fea-95bd-29619318c8c6', l='ServerLevel[world]', x=-554.21, y=68.00, z=-1035.85, cpos=[-35, -65], tl=159491, v=false]
 [17:57:57] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[18:27:10] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:27:14] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:30:09] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:andesite 64
