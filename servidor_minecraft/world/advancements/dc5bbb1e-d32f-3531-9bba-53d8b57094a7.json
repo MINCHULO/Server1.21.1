@@ -28,6 +28,8 @@
       "minecraft:old_growth_spruce_taiga": "2024-07-04 01:48:08 +0000",
       "minecraft:snowy_beach": "2024-07-12 05:35:30 +0000",
       "minecraft:wooded_badlands": "2025-02-19 17:21:18 +0000",
+      "minecraft:windswept_savanna": "2025-02-19 17:37:38 +0000",
+      "minecraft:warm_ocean": "2025-02-19 17:37:43 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-10-23 17:19:05 +0000",
       "minecraft:badlands": "2025-02-19 17:22:12 +0000",
       "minecraft:flower_forest": "2024-07-08 04:18:47 +0000",
@@ -5178,9 +5180,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:warm": "2025-02-19 17:35:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-02-19 17:35:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-19 17:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2025-02-19 17:39:26 +0000"
     },
     "done": true
   },
@@ -5190,9 +5210,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-02-19 17:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/spyglass_at_parrot": {
     "criteria": {
       "spyglass_at_parrot": "2025-02-19 17:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/brush_armadillo": {
+    "criteria": {
+      "brush_armadillo": "2025-02-19 17:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-19 17:34:20 +0000"
     },
     "done": true
   },
