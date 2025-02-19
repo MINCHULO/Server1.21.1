@@ -139,3 +139,18 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:25:28] [Server thread/INFO]: Min_Chulo issued server command: /lp group default permission set essentials.craft
 [17:25:29] [Server thread/INFO]: Toxcraft456 issued server command: /ec
 [17:25:37] [Server thread/INFO]: Toxcraft456 has made the advancement [Who's the Pillager Now?]
+[17:26:12] [Server thread/INFO]: Min_Chulo issued server command: /home
+[17:26:37] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[17:27:44] [Server thread/INFO]: Villager Villager['Villager'/19014, uuid='1254cc7a-1e74-4215-9608-1ce17cb0356b', l='ServerLevel[world]', x=1742.72, y=83.00, z=-3117.37, cpos=[108, -195], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[17:29:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2750ms or 55 ticks behind
+[17:30:52] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[17:32:51] [Server thread/WARN]: Camel (vehicle of Toxcraft456) moved wrongly! 0.7186905752884302
+[17:33:24] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[17:33:24] [Server thread/INFO]: Min_Chulo left the game
+[17:34:20] [Server thread/INFO]: Toxcraft456 has made the advancement [A Seedy Place]
+[17:34:33] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:34:37] [Server thread/INFO]: Min_Chulo joined the game
+[17:34:37] [Server thread/INFO]: Min_Chulo[/127.90.1.150:42295] logged in with entity id 25097 at ([world]-387.0165462257718, 68.0, -1233.121730057043)
+[17:35:01] [Server thread/INFO]: Toxcraft456 has made the advancement [Fishy Business]
+[17:35:09] [Server thread/INFO]: Toxcraft456 has made the advancement [Tactical Fishing]
+[17:35:38] [Server thread/INFO]: Toxcraft456 issued server command: /ec
