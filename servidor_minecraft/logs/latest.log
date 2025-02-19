@@ -126,3 +126,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:26:48] [Server thread/INFO]: Min_Chulo issued server command: /back
 [21:26:48] [Server thread/INFO]: The death_locations.yml file has been saved
 [21:26:51] [Server thread/INFO]: Min_Chulo issued server command: /back
+[21:27:37] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[21:27:37] [Server thread/INFO]: Min_Chulo left the game
