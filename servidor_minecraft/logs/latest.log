@@ -153,3 +153,4 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [23:24:00] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1.1
 [23:24:26] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1
 [23:26:16] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[23:36:29] [Server thread/INFO]: Min_Chulo issued server command: /ec
