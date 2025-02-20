@@ -142,3 +142,14 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [22:43:17] [Server thread/INFO]: Min_Chulo[/127.31.155.234:51881] logged in with entity id 76 at ([world]-547.7670680720721, 67.0, -1187.300000011921)
 [23:09:07] [Server thread/INFO]: Min_Chulo issued server command: /time
 [23:11:01] [Server thread/INFO]: Min_Chulo issued server command: /home
+[23:20:42] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 0.1
+[23:21:49] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1
+[23:21:50] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 2
+[23:22:07] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 3
+[23:22:10] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 4
+[23:23:02] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 10
+[23:23:35] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 20
+[23:23:54] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1
+[23:24:00] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1.1
+[23:24:26] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1
+[23:26:16] [Server thread/INFO]: Min_Chulo issued server command: /ec
