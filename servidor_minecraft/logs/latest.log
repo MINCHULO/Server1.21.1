@@ -248,3 +248,17 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [22:00:14] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
 [22:00:34] [Server thread/INFO]: Min_Chulo issued server command: /fly
 [22:01:22] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[22:09:45] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[22:09:48] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[22:10:02] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:10:10] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:10:29] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[22:11:11] [Server thread/INFO]: Min_Chulo issued server command: /gamemode su
+[22:11:13] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[22:11:17] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[22:13:22] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[22:14:25] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[22:14:27] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[22:23:35] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:24:11] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:mossy_stone_bricks 34
+[22:24:35] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:mossy_stone_brick_stairs 32
