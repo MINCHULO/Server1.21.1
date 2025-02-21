@@ -158,3 +158,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [17:43:46] [Server thread/INFO]: Min_Chulo joined the game
 [17:43:46] [Server thread/INFO]: Min_Chulo[/[0:0:0:0:0:0:0:1%0]:44518] logged in with entity id 15759 at ([world]-556.6262715598054, 68.52267261160824, -1189.2046468199817)
 [17:47:05] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[17:59:44] [Server thread/INFO]: Min_Chulo issued server command: /home
+[18:00:55] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:01:07] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[18:01:27] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[18:02:34] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:04:47] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:oak_log 64
