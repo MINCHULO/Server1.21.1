@@ -268,3 +268,6 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [22:50:17] [Server thread/INFO]: Min_Chulo issued server command: /home
 [23:01:46] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [23:01:50] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[23:14:56] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo pumpkin_seeds 64
+[23:15:18] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[23:15:24] [Server thread/INFO]: Min_Chulo issued server command: /ec
