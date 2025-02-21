@@ -171,3 +171,5 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [18:06:30] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dark_oak_stairs 64
 [18:08:19] [Server thread/INFO]: Min_Chulo issued server command: /home
 [18:09:25] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:17:30] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:23:00] [Server thread/INFO]: Min_Chulo issued server command: /ec
