@@ -190,3 +190,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [18:46:06] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo bamboo_block 128
 [18:48:10] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo hopper 140
 [18:48:46] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[18:57:00] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[19:01:14] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo shulker_box
+[19:01:33] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:01:41] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:01:45] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[19:01:53] [Server thread/INFO]: Min_Chulo issued server command: /ec
