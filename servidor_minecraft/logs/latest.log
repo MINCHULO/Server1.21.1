@@ -196,3 +196,6 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [19:01:41] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [19:01:45] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
 [19:01:53] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:08:12] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:11:14] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:14:40] [Server thread/INFO]: Min_Chulo issued server command: /home
