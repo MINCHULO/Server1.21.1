@@ -200,3 +200,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [19:11:14] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [19:14:40] [Server thread/INFO]: Min_Chulo issued server command: /home
 [19:41:02] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[20:16:24] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo redstone_block
+[20:16:31] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[20:16:36] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[20:16:40] [Server thread/INFO]: Min_Chulo issued server command: /faly
+[20:16:43] [Server thread/INFO]: Min_Chulo issued server command: /fay
+[20:16:46] [Server thread/INFO]: Min_Chulo issued server command: /fly
