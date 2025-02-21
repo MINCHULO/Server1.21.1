@@ -146,3 +146,14 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [17:34:59] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
 [17:35:01] [Server thread/INFO]: Min_Chulo joined the game
 [17:35:01] [Server thread/INFO]: Min_Chulo[/[0:0:0:0:0:0:0:1%0]:59734] logged in with entity id 15149 at ([world]-561.5281508365096, 68.0, -1188.6485489984404)
+[17:36:07] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[17:36:07] [Server thread/INFO]: Min_Chulo left the game
+[17:43:15] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:43:16] [Server thread/INFO]: Min_Chulo joined the game
+[17:43:16] [Server thread/INFO]: Min_Chulo[/[0:0:0:0:0:0:0:1%0]:35718] logged in with entity id 15480 at ([world]-560.163921721746, 68.0, -1186.4233371708756)
+[17:43:41] [Server thread/WARN]: Min_Chulo was kicked for floating too long!
+[17:43:41] [Server thread/INFO]: Min_Chulo lost connection: Flying is not enabled on this server
+[17:43:41] [Server thread/INFO]: Min_Chulo left the game
+[17:43:45] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:43:46] [Server thread/INFO]: Min_Chulo joined the game
+[17:43:46] [Server thread/INFO]: Min_Chulo[/[0:0:0:0:0:0:0:1%0]:44518] logged in with entity id 15759 at ([world]-556.6262715598054, 68.52267261160824, -1189.2046468199817)
