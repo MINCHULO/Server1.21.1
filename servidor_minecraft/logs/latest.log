@@ -244,3 +244,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:57:23] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo debug_stick
 [21:57:34] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
 [21:58:08] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[22:00:06] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[22:00:14] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[22:00:34] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[22:01:22] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
