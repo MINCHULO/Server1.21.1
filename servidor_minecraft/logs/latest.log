@@ -214,3 +214,10 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:24:20] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo spruce_stairs 2
 [20:24:39] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo spruce_stairs 2
 [20:24:51] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo spruce_slab 1
+[20:29:40] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[20:37:22] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo crying_obsidian 40
+[20:40:00] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[20:40:00] [Server thread/INFO]: Min_Chulo left the game
+[20:43:19] [User Authenticator #3/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[20:43:20] [Server thread/INFO]: Min_Chulo joined the game
+[20:43:20] [Server thread/INFO]: Min_Chulo[/[0:0:0:0:0:0:0:1%0]:60782] logged in with entity id 38813 at ([world]-563.5442958135054, 76.66814125986762, -1098.6583382683878)
