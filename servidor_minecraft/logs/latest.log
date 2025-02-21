@@ -228,3 +228,12 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:02:51] [Server thread/WARN]: Min_Chulo moved wrongly!
 [21:05:55] [Server thread/INFO]: Min_Chulo issued server command: /effect clear
 [21:05:55] [Server thread/INFO]: [Min_Chulo: Removed every effect from Min_Chulo]
+[21:18:20] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:stone 3
+[21:20:18] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[21:20:18] [Server thread/INFO]: Min_Chulo left the game
+[21:20:46] [User Authenticator #4/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:20:47] [Server thread/INFO]: Min_Chulo joined the game
+[21:20:47] [Server thread/INFO]: Min_Chulo[/[0:0:0:0:0:0:0:1%0]:49010] logged in with entity id 44016 at ([world]-669.4481702532088, 77.0625, -1164.042374311011)
+[21:22:51] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[21:35:00] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[21:35:00] [Server thread/INFO]: Min_Chulo left the game
