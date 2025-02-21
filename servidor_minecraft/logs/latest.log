@@ -264,3 +264,4 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [22:24:35] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:mossy_stone_brick_stairs 32
 [22:33:46] [Server thread/INFO]: Min_Chulo issued server command: /craft
 [22:35:45] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo mossy_cobblestone_stairs 32
+[22:46:07] [Server thread/INFO]: Min_Chulo issued server command: /home
