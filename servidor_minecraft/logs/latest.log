@@ -206,3 +206,11 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:16:40] [Server thread/INFO]: Min_Chulo issued server command: /faly
 [20:16:43] [Server thread/INFO]: Min_Chulo issued server command: /fay
 [20:16:46] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[20:18:06] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[20:18:11] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[20:19:48] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo armor_stand 2
+[20:20:39] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo chain 1
+[20:22:34] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo armor_stand 1
+[20:24:20] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo spruce_stairs 2
+[20:24:39] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo spruce_stairs 2
+[20:24:51] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo spruce_slab 1

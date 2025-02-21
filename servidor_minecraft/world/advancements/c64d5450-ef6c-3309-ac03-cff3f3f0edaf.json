@@ -6009,6 +6009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-21 20:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_stairs": {
     "criteria": {
       "has_planks": "2025-02-21 18:45:25 +0000"
