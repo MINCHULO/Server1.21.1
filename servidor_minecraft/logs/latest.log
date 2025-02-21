@@ -237,3 +237,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:22:51] [Server thread/INFO]: Min_Chulo issued server command: /fly
 [21:35:00] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
 [21:35:00] [Server thread/INFO]: Min_Chulo left the game
+[21:44:13] [User Authenticator #5/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:44:14] [Server thread/INFO]: Min_Chulo joined the game
+[21:44:14] [Server thread/INFO]: Min_Chulo[/[0:0:0:0:0:0:0:1%0]:48410] logged in with entity id 46860 at ([world]-657.8388852529883, 79.0, -1036.2516203556643)
+[21:47:10] [Server thread/INFO]: Min_Chulo issued server command: /fly
