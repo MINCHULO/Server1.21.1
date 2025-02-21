@@ -173,3 +173,14 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [18:09:25] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [18:17:30] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [18:23:00] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:26:04] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:26:07] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:26:18] [Server thread/INFO]: Min_Chulo issued server command: /home
+[18:28:24] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dark_oak_log 128
+[18:28:25] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dark_oak_log 128
+[18:28:26] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dark_oak_log 128
+[18:28:26] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dark_oak_log 128
+[18:28:27] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dark_oak_log 128
+[18:29:15] [Server thread/INFO]: Min_Chulo issued server command: /trash
+[18:29:53] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[18:31:43] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
