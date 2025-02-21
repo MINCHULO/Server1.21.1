@@ -221,3 +221,10 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:43:19] [User Authenticator #3/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
 [20:43:20] [Server thread/INFO]: Min_Chulo joined the game
 [20:43:20] [Server thread/INFO]: Min_Chulo[/[0:0:0:0:0:0:0:1%0]:60782] logged in with entity id 38813 at ([world]-563.5442958135054, 76.66814125986762, -1098.6583382683878)
+[21:02:37] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:speed infinite 2
+[21:02:37] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to Min_Chulo]
+[21:02:50] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:speed infinite 3
+[21:02:50] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to Min_Chulo]
+[21:02:51] [Server thread/WARN]: Min_Chulo moved wrongly!
+[21:05:55] [Server thread/INFO]: Min_Chulo issued server command: /effect clear
+[21:05:55] [Server thread/INFO]: [Min_Chulo: Removed every effect from Min_Chulo]
