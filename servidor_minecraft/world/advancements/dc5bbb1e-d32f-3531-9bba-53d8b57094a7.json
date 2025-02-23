@@ -5180,39 +5180,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/leash_all_frog_variants": {
-    "criteria": {
-      "minecraft:warm": "2025-02-19 17:35:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-02-19 17:35:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-19 17:11:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wolf_armor": {
-    "criteria": {
-      "has_armadillo_scute": "2025-02-19 17:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/whos_the_pillager_now": {
-    "criteria": {
-      "kill_pillager": "2025-02-19 17:25:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "tropical_fish_bucket": "2025-02-19 17:35:09 +0000"
     },
     "done": true
   },
@@ -5222,15 +5192,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/brush_armadillo": {
+  "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
-      "brush_armadillo": "2025-02-19 17:39:25 +0000"
+      "kill_pillager": "2025-02-19 17:25:37 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-02-19 17:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-02-19 17:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-02-19 17:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:warm": "2025-02-19 17:35:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/brush_armadillo": {
+    "criteria": {
+      "brush_armadillo": "2025-02-19 17:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2025-02-19 17:39:26 +0000"
     },
     "done": true
   },

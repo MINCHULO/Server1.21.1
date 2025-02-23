@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.127.239.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740290090227
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740290723123
+  login: 1740288963435
+money: '0'
+last-account-name: _TeyZen_
+lastlocation:
+  world: 8038ab38-042b-4a2e-b377-aca180063fc7
+  world-name: world
+  x: -2878.5498124384458
+  y: 111.0
+  z: -1448.6716849982292
+  yaw: -14.949201583862305
+  pitch: -9.116545677185059
+logoutlocation:
+  world: 8038ab38-042b-4a2e-b377-aca180063fc7
+  world-name: world
+  x: -2874.953010426616
+  y: 115.0
+  z: -1450.4338219030951
+  yaw: -34.96994400024414
+  pitch: -0.09818065166473389
