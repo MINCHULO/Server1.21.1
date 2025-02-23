@@ -241,3 +241,4 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:31:46] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [20:33:00] [Server thread/WARN]: Min_Chulo moved wrongly!
 [20:42:48] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[20:46:03] [Server thread/INFO]: Min_Chulo issued server command: /home
