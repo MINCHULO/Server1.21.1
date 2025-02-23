@@ -148,3 +148,27 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [19:04:09] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_dark_oak_log 64
 [19:12:48] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
 [19:12:55] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[19:21:43] [User Authenticator #1/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[19:21:46] [Server thread/INFO]: _TeyZen_ joined the game
+[19:21:46] [Server thread/INFO]: _TeyZen_[/127.127.239.245:38513] logged in with entity id 16887 at ([world]-2874.953010426616, 115.0, -1450.4338219030951)
+[19:23:22] [Async Chat Thread - #2/INFO]: [Not Secure] Papu _TeyZen_: -231 77 -4031 roble oscuro
+[19:28:57] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
+[19:29:00] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[19:30:41] [Async Chat Thread - #4/INFO]: [Not Secure] Papu _TeyZen_: -281
+[19:30:45] [Async Chat Thread - #4/INFO]: [Not Secure] Papu _TeyZen_: 83
+[19:30:49] [Async Chat Thread - #4/INFO]: [Not Secure] Papu _TeyZen_: -2285
+[19:30:53] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[19:31:00] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[19:32:48] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
+[19:32:51] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[19:33:41] [Server thread/INFO]: _TeyZen_ issued server command: /home
+[19:36:42] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: WA
+[19:36:42] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: AA
+[19:36:42] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: A
+[19:36:43] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: A
+[19:36:43] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: A
+[19:36:43] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: AA
+[19:36:43] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: AA
+[19:36:43] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: A
+[19:36:44] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: A
+[19:38:35] [Server thread/WARN]: _TeyZen_ moved wrongly!
