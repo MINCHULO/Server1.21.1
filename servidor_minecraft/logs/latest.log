@@ -235,3 +235,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:11:30] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
 [20:11:30] [Server thread/INFO]: _TeyZen_ left the game
 [20:11:41] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[20:13:35] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[20:27:39] [Server thread/INFO]: Min_Chulo issued server command: /home
+[20:30:08] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[20:31:46] [Server thread/INFO]: Min_Chulo issued server command: /ec
