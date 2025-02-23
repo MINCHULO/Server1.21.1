@@ -145,3 +145,4 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [18:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
 [18:24:11] [Server thread/INFO]: Min_Chulo issued server command: /home
 [18:37:11] [Async Chat Thread - #0/INFO]: [Not Secure] Papu NachoTrihart: ss
+[19:04:09] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_dark_oak_log 64
