@@ -172,3 +172,25 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [19:36:43] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: A
 [19:36:44] [Async Chat Thread - #6/INFO]: [Not Secure] Papu NachoTrihart: A
 [19:38:35] [Server thread/WARN]: _TeyZen_ moved wrongly!
+[19:43:25] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[19:43:32] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[19:43:41] [Server thread/INFO]: Min_Chulo issued server command: /home
+[19:46:12] [Server thread/WARN]: _TeyZen_ moved wrongly!
+[19:48:31] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:32] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: DD
+[19:48:32] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:32] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:32] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:32] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:33] [Async Chat Thread - #9/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:33] [Async Chat Thread - #9/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:33] [Async Chat Thread - #9/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:33] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:34] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: DD
+[19:48:34] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:34] [Async Chat Thread - #8/INFO]: [Not Secure] Papu NachoTrihart: D
+[19:48:34] [Server thread/INFO]: NachoTrihart lost connection: Kicked for spamming
+[19:48:34] [Server thread/INFO]: NachoTrihart left the game
+[19:48:40] [User Authenticator #2/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[19:48:42] [Server thread/INFO]: NachoTrihart joined the game
+[19:48:42] [Server thread/INFO]: NachoTrihart[/127.19.167.212:36883] logged in with entity id 48477 at ([world]-456.5, 70.0, -1161.5)
