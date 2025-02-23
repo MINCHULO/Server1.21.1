@@ -209,3 +209,29 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:02:22] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
 [20:02:22] [Server thread/INFO]: NachoTrihart left the game
 [20:02:22] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:02:28] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[20:02:33] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:02:50] [Server thread/INFO]: Min_Chulo issued server command: /hat
+[20:02:55] [Server thread/INFO]: Min_Chulo issued server command: /hat
+[20:03:09] [Server thread/INFO]: Min_Chulo issued server command: /hat
+[20:03:52] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:03:56] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[20:04:06] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[20:04:18] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:04:30] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:04:42] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:05:00] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:05:18] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:05:33] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:06:36] [Server thread/INFO]: Min_Chulo issued server command: /home
+[20:08:33] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.1
+[20:08:44] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 10
+[20:08:54] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 100
+[20:09:11] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.01
+[20:09:38] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 0.01
+[20:10:06] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1
+[20:10:13] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 1
+[20:11:22] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[20:11:30] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
+[20:11:30] [Server thread/INFO]: _TeyZen_ left the game
+[20:11:41] [Server thread/INFO]: Min_Chulo issued server command: /ec
