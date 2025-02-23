@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740337975917
+  lastteleport: 1740340573766
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740340114385
+  logout: 1740340942081
   login: 1740340122659
 money: '0'
 last-account-name: NachoTrihart
 logoutlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -456.5
-  y: 70.0
-  z: -1161.5
-  yaw: -180.0
-  pitch: 0.0
+  x: -469.6901840100443
+  y: 71.0
+  z: -1172.113778699224
+  yaw: -96.79776000976562
+  pitch: 20.902006149291992
 lastlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -275.1707407704723
-  y: -10.0
-  z: -1371.7610750703611
-  yaw: -1.4459228515625
-  pitch: 12.717353820800781
+  x: -379.31348146064124
+  y: 53.5
+  z: -1155.3432595004213
+  yaw: 57.05450439453125
+  pitch: 3.575321674346924

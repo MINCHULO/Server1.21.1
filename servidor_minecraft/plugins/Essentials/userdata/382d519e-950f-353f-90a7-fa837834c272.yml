@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740339171415
+  lastteleport: 1740340737311
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: _TeyZen_
 lastlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -110.89727236803546
-  y: 65.0
-  z: -3443.912967515593
-  yaw: 22.23681640625
-  pitch: 22.188274383544922
+  x: -11690.814523286112
+  y: 76.32463203251795
+  z: -8560.896867117883
+  yaw: -131.15394592285156
+  pitch: -9.02149772644043
 logoutlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world

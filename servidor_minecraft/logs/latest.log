@@ -194,3 +194,18 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [19:48:40] [User Authenticator #2/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
 [19:48:42] [Server thread/INFO]: NachoTrihart joined the game
 [19:48:42] [Server thread/INFO]: NachoTrihart[/127.19.167.212:36883] logged in with entity id 48477 at ([world]-456.5, 70.0, -1161.5)
+[19:56:09] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
+[19:56:13] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[19:58:54] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
+[19:58:57] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[19:59:37] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[19:59:49] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[19:59:55] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:01:07] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:01:34] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[20:01:39] [Server thread/INFO]: _TeyZen_ issued server command: /hat
+[20:02:14] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[20:02:20] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[20:02:22] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[20:02:22] [Server thread/INFO]: NachoTrihart left the game
+[20:02:22] [Server thread/INFO]: _TeyZen_ issued server command: /hat
