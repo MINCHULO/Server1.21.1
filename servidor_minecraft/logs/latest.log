@@ -146,3 +146,5 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [18:24:11] [Server thread/INFO]: Min_Chulo issued server command: /home
 [18:37:11] [Async Chat Thread - #0/INFO]: [Not Secure] Papu NachoTrihart: ss
 [19:04:09] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_dark_oak_log 64
+[19:12:48] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
+[19:12:55] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
