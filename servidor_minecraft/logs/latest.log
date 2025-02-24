@@ -196,3 +196,24 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [01:29:44] [Server thread/INFO]: Toxcraft456 issued server command: /back
 [01:29:50] [Server thread/INFO]: Toxcraft456 issued server command: /tpa Min_Chulo
 [01:30:00] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[01:31:10] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:31:43] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:32:05] [Server thread/INFO]: Min_Chulo has made the advancement [Shear Brilliance]
+[01:32:13] [Server thread/INFO]: Min_Chulo issued server command: /home
+[01:32:26] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[01:36:08] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
+[01:36:15] [Server thread/INFO]: NachoTrihart issued server command: /tpacancel
+[01:36:23] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
+[01:37:01] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 0.1
+[01:37:25] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 0.01
+[01:37:30] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:37:34] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 0.001
+[01:37:48] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 0.2
+[01:37:53] [Async Chat Thread - #8/INFO]: [Not Secure] Papu Min_Chulo: 2
+[01:37:58] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 0.001
+[01:38:09] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 10
+[01:38:15] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1
+[01:38:57] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1.1
+[01:40:16] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[01:40:24] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[01:40:29] [Server thread/INFO]: Min_Chulo issued server command: /ec

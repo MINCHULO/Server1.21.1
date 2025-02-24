@@ -2391,6 +2391,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2025-02-24 01:33:01 +0000",
       "minecraft:cow": "2024-07-08 07:20:49 +0000",
       "minecraft:sheep": "2024-07-08 07:20:09 +0000"
     },
@@ -6042,6 +6043,18 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-23 05:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:rusty": "2025-02-24 01:32:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/remove_wolf_armor": {
+    "criteria": {
+      "remove_wolf_armor": "2025-02-24 01:32:05 +0000"
     },
     "done": true
   },
