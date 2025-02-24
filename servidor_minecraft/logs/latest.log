@@ -169,3 +169,16 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [01:09:14] [Server thread/INFO]: Min_Chulo issued server command: /home
 [01:09:22] [Server thread/INFO]: Toxcraft456 issued server command: /ec
 [01:09:25] [Server thread/INFO]: Toxcraft456 has made the advancement [Shear Brilliance]
+[01:10:08] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: -386
+[01:10:12] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: -1272
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /attribute Toxcraft456 minecraft:generic.scale base set 0.1
+[01:14:20] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:14:27] [Server thread/INFO]: Min_Chulo issued server command: /attribute Toxcraft456 minecraft:generic.scale base set 1
+[01:14:34] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:16:01] [Server thread/INFO]: NachoTrihart issued server command: /sethome
+[01:16:09] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
+[01:16:10] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[01:16:11] [Server thread/INFO]: NachoTrihart has completed the challenge [Hot Tourist Destinations]
+[01:16:29] [Server thread/INFO]: NachoTrihart issued server command: /homes
+[01:16:46] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: ./sethome
+[01:17:10] [Server thread/INFO]: NachoTrihart issued server command: /ec

@@ -2489,9 +2489,10 @@
       "minecraft:crimson_forest": "2024-07-13 00:02:35 +0000",
       "minecraft:nether_wastes": "2024-07-13 00:02:04 +0000",
       "minecraft:soul_sand_valley": "2024-07-13 00:01:38 +0000",
-      "minecraft:warped_forest": "2024-10-27 23:56:52 +0000"
+      "minecraft:warped_forest": "2024-10-27 23:56:52 +0000",
+      "minecraft:basalt_deltas": "2025-02-24 01:16:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
