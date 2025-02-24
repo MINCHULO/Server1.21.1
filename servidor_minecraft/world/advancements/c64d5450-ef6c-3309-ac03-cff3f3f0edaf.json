@@ -6064,5 +6064,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-24 02:27:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

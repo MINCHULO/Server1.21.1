@@ -241,3 +241,49 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [02:30:28] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:stripped_bamboo_block 128
 [02:30:29] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:stripped_bamboo_block 128
 [02:30:30] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:stripped_bamboo_block 128
+[02:32:47] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:glowstone 33
+[02:32:52] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:glowstone 64
+[02:32:53] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:glowstone 64
+[02:34:43] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dark_oak_log 256
+[02:35:02] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dark_oak_stairs 31
+[02:38:15] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:spruce_trapdoor 64
+[02:38:47] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:gray_carpet 64
+[02:38:48] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:gray_carpet 64
+[02:38:48] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:gray_carpet 64
+[02:41:35] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[02:41:35] [Server thread/INFO]: Min_Chulo left the game
+[02:41:53] [Server thread/INFO]: Stopping the server
+[02:41:53] [Server thread/INFO]: Stopping server
+[02:41:53] [Server thread/INFO]: [NameTag] Disabling NameTag v1.0
+[02:41:53] [Server thread/INFO]: [Back] Disabling Back v1.8.5
+[02:41:53] [Server thread/INFO]: ----------------------------
+[02:41:53] [Server thread/INFO]: Back Plugin Disabled!
+[02:41:53] [Server thread/INFO]: Plugin developed by GFelberg
+[02:41:53] [Server thread/INFO]: ----------------------------
+[02:41:53] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+169-69ed07a
+[02:41:53] [Server thread/INFO]: [setHome] Disabling setHome v1.0
+[02:41:53] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.154
+[02:41:53] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:41:53] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:41:53] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:41:53] [Server thread/INFO]: Saving players
+[02:41:53] [Server thread/INFO]: Saving worlds
+[02:41:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:41:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:41:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:41:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:41:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[02:41:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:41:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:41:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:41:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:41:54] [Server thread/INFO]: [ChunkHolderManager] Saved 169 block chunks, 36 entity chunks, 0 poi chunks in world 'world_nether' in 0.23s
+[02:41:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:41:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:41:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:41:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:41:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[02:41:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:41:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:41:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:41:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
