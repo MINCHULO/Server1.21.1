@@ -149,3 +149,23 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [00:48:19] [User Authenticator #1/INFO]: UUID of player Toxcraft456 is dc5bbb1e-d32f-3531-9bba-53d8b57094a7
 [00:48:24] [Server thread/INFO]: Toxcraft456 joined the game
 [00:48:24] [Server thread/INFO]: Toxcraft456[/127.70.228.246:58209] logged in with entity id 1624 at ([world_nether]229.160680810847, 97.0, -478.5)
+[00:50:59] [Server thread/INFO]: Min_Chulo issued server command: /EC
+[00:51:01] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[00:51:32] [Server thread/INFO]: Min_Chulo issued server command: /home
+[00:52:48] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
+[00:53:51] [Server thread/INFO]: Min_Chulo issued server command: /home
+[00:53:54] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[00:55:53] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[00:57:07] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Toxcraft456: de descraft
+[00:59:57] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:02:22] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[01:02:28] [Server thread/INFO]: Min_Chulo issued server command: /home
+[01:05:25] [Server thread/INFO]: Toxcraft456 issued server command: /craft
+[01:05:25] [Server thread/INFO]: [Essentials] Toxcraft456 was denied access to command.
+[01:05:27] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:06:00] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:07:41] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:09:11] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:09:14] [Server thread/INFO]: Min_Chulo issued server command: /home
+[01:09:22] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[01:09:25] [Server thread/INFO]: Toxcraft456 has made the advancement [Shear Brilliance]
