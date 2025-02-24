@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740359789536
+  lastteleport: 1740361472218
   lastheal: 0
   mute: 0
   jail: 0
@@ -29,10 +29,10 @@ logoutlocation:
   yaw: -96.79776000976562
   pitch: 20.902006149291992
 lastlocation:
-  world: 3f1df9b4-6b2b-4df3-aab6-2cafe21785db
-  world-name: world_nether
-  x: -87.19081330762101
-  y: 69.0
-  z: -337.69012585995625
-  yaw: 155.6621551513672
-  pitch: 25.092506408691406
+  world: 8038ab38-042b-4a2e-b377-aca180063fc7
+  world-name: world
+  x: -484.82617939970885
+  y: 75.0625
+  z: -1220.727936915816
+  yaw: 26.0224609375
+  pitch: -3.5752944946289062
