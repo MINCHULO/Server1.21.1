@@ -225,3 +225,11 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [01:51:16] [Server thread/INFO]: Min_Chulo issued server command: /home
 [01:56:42] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
 [01:56:51] [Server thread/INFO]: NachoTrihart issued server command: /tpaccept
+[02:09:11] [Server thread/INFO]: Min_Chulo issued server command: /attribute Min_Chulo minecraft:generic.scale base set 1
+[02:15:04] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[02:16:04] [Server thread/INFO]: NachoTrihart issued server command: /homes
+[02:19:06] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[02:19:06] [Server thread/INFO]: NachoTrihart left the game
+[02:19:21] [Server thread/INFO]: Min_Chulo issued server command: /home
+[02:19:41] [Server thread/INFO]: Toxcraft456 lost connection: Disconnected
+[02:19:41] [Server thread/INFO]: Toxcraft456 left the game

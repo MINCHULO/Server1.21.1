@@ -6046,6 +6046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-24 02:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
       "minecraft:rusty": "2025-02-24 01:32:01 +0000"
