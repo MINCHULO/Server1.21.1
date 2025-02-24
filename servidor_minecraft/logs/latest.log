@@ -233,3 +233,11 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [02:19:21] [Server thread/INFO]: Min_Chulo issued server command: /home
 [02:19:41] [Server thread/INFO]: Toxcraft456 lost connection: Disconnected
 [02:19:41] [Server thread/INFO]: Toxcraft456 left the game
+[02:26:58] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:stripped_spruce_log 128
+[02:27:14] [Server thread/INFO]: Min_Chulo issued server command: /home
+[02:27:49] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:stripped_bamboo_block
+[02:29:02] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo bamboo 64
+[02:29:24] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo bamboo 64
+[02:30:28] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:stripped_bamboo_block 128
+[02:30:29] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:stripped_bamboo_block 128
+[02:30:30] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:stripped_bamboo_block 128
