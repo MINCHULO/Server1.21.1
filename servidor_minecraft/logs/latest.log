@@ -145,3 +145,8 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [22:08:24] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:spruce_log 128
 [22:09:05] [Server thread/INFO]: Min_Chulo issued server command: /homme
 [22:09:09] [Server thread/INFO]: Min_Chulo issued server command: /home
+[22:15:17] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:18:28] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:21:02] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:21:11] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:21:17] [Server thread/INFO]: Min_Chulo issued server command: /ec
