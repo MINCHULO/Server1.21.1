@@ -1,26 +1,26 @@
-[02:22:06] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[02:22:06] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[02:22:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:22:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[02:22:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[16:13:36] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[16:13:36] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[16:13:36] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:13:37] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[16:13:37] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - Back (1.8.5), Essentials (2.21.0-dev+169-69ed07a), LuckPerms (5.4.154), LunaColor (1.0-SNAPSHOT), NameTag (1.0), ServerOptimizer (1.0), setHome (1.0)
-[02:22:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:22:17] [ServerMain/INFO]: Loaded 1290 recipes
-[02:22:18] [ServerMain/INFO]: Loaded 1399 advancements
-[02:22:18] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:22:18] [Server thread/INFO]: Loading properties
-[02:22:18] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[02:22:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:22:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:22:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:22:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:22:21] [Server thread/INFO]: Default game type: SURVIVAL
-[02:22:21] [Server thread/INFO]: Generating keypair
-[02:22:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:22:21] [Server thread/INFO]: Using epoll channel type
-[02:22:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:22:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:22:21] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/LunaColor-1.0-SNAPSHOT.jar' in 'plugins/.paper-remapped'
+[16:13:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:13:46] [ServerMain/INFO]: Loaded 1290 recipes
+[16:13:46] [ServerMain/INFO]: Loaded 1399 advancements
+[16:13:47] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:13:47] [Server thread/INFO]: Loading properties
+[16:13:47] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[16:13:48] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:13:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:13:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:13:49] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[16:13:49] [Server thread/INFO]: Default game type: SURVIVAL
+[16:13:49] [Server thread/INFO]: Generating keypair
+[16:13:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:13:49] [Server thread/INFO]: Using epoll channel type
+[16:13:49] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:13:49] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:13:49] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/LunaColor-1.0-SNAPSHOT.jar' in 'plugins/.paper-remapped'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [PlaceholderAPI]. Please download and install these plugins to run 'LunaColor'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
@@ -30,7 +30,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:22:21] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'ServerOptimizer.jar' in folder 'plugins/.paper-remapped'
+[16:13:49] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'ServerOptimizer.jar' in folder 'plugins/.paper-remapped'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has been compiled by a more recent version of the Java Runtime (class file version 66.0), this version of the Java Runtime only recognizes class file versions up to 65.0
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:129) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
@@ -57,156 +57,85 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:78) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	... 9 more
-[02:22:22] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.154
-[02:22:22] [Server thread/INFO]: [setHome] Loading server plugin setHome v1.0
-[02:22:22] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+169-69ed07a
-[02:22:22] [Server thread/INFO]: [Back] Loading server plugin Back v1.8.5
-[02:22:22] [Server thread/INFO]: [NameTag] Loading server plugin NameTag v1.0
-[02:22:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:22:22] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.154
-[02:22:23] [Server thread/INFO]:         __    
-[02:22:23] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.154
-[02:22:23] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[02:22:23] [Server thread/INFO]: 
-[02:22:23] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[02:22:23] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[02:22:24] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[02:22:24] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[02:22:24] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2295ms)
-[02:22:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:22:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:22:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:22:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:22:24] [Server thread/INFO]: Preparing level "world"
-[02:22:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:22:28] [Server thread/INFO]: Time elapsed: 2311 ms
-[02:22:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:22:28] [Server thread/INFO]: Time elapsed: 437 ms
-[02:22:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:22:28] [Server thread/INFO]: Time elapsed: 201 ms
-[02:22:28] [Server thread/INFO]: [setHome] Enabling setHome v1.0
-[02:22:28] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+169-69ed07a
-[02:22:31] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[02:22:32] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[02:22:32] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[02:22:32] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[02:22:33] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[02:22:33] [Server thread/INFO]: [Essentials] Using locale en
-[02:22:33] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[02:22:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[02:22:34] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[02:22:34] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[02:22:34] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[02:22:34] [Server thread/INFO]: [Back] Enabling Back v1.8.5
-[02:22:34] [Server thread/ERROR]: [Back] Failed to register events for class me.GFelberg.Back.Main because net/milkbowl/vault/economy/Economy does not exist.
-[02:22:34] [Server thread/INFO]: The death_locations.yml file has been saved
-[02:22:34] [Server thread/INFO]: ----------------------------
-[02:22:34] [Server thread/INFO]: Back Plugin Enabled!
-[02:22:34] [Server thread/INFO]: Vault Plugin or Economy Plugin or both not found! Plugin will works without Vault
-[02:22:34] [Server thread/INFO]: ----------------------------
-[02:22:34] [Server thread/INFO]: [NameTag] Enabling NameTag v1.0
-[02:22:34] [Server thread/INFO]: [spark] Starting background profiler...
-[02:22:35] [Server thread/INFO]: Done preparing level "world" (10.449s)
-[02:22:35] [Server thread/INFO]: Running delayed init tasks
-[02:22:35] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[02:22:35] [Server thread/INFO]: Done (29.892s)! For help, type "help"
-[02:22:35] [Server thread/INFO]: Timings Reset
-[02:22:35] [Craft Scheduler Thread - 2 - Back/INFO]: [Back] No update available.
-[02:22:35] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 11 EssentialsX dev build(s) out of date!
-[02:22:35] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[02:23:11] [User Authenticator #0/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[02:23:20] [Server thread/INFO]: Min_Chulo joined the game
-[02:23:20] [Server thread/INFO]: Min_Chulo[/127.106.31.25:35855] logged in with entity id 43 at ([world]-605.2705546528437, 75.0, -1059.300000011921)
-[02:24:26] [Server thread/INFO]: Min_Chulo lost connection: Timed out
-[02:24:26] [Server thread/INFO]: Min_Chulo left the game
-[02:28:23] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[02:28:25] [Server thread/INFO]: Min_Chulo joined the game
-[02:28:25] [Server thread/INFO]: Min_Chulo[/127.106.31.25:37855] logged in with entity id 686 at ([world]-600.7017298058303, 76.0, -1057.7005083473932)
-[02:29:03] [Server thread/INFO]: Min_Chulo lost connection: Timed out
-[02:29:04] [Server thread/INFO]: Min_Chulo left the game
-[02:40:58] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[02:41:00] [Server thread/INFO]: Min_Chulo joined the game
-[02:41:00] [Server thread/INFO]: Min_Chulo[/127.106.31.25:44487] logged in with entity id 1240 at ([world]-601.2375000119209, 75.0, -1065.2676487847796)
-[02:41:33] [Server thread/INFO]: Min_Chulo lost connection: Timed out
-[02:41:33] [Server thread/INFO]: Min_Chulo left the game
-[02:44:02] [User Authenticator #3/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[02:44:04] [Server thread/INFO]: Min_Chulo joined the game
-[02:44:04] [Server thread/INFO]: Min_Chulo[/127.106.31.25:34563] logged in with entity id 1793 at ([world]-601.2375000119209, 75.0, -1065.2676487847796)
-[02:44:13] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
-[02:44:13] [Server thread/INFO]: Min_Chulo left the game
-[02:58:16] [User Authenticator #4/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[02:58:18] [Server thread/INFO]: Min_Chulo joined the game
-[02:58:18] [Server thread/INFO]: Min_Chulo[/127.106.31.25:46329] logged in with entity id 2197 at ([world]-610.3730065664967, 75.0, -1056.646846785486)
-[03:00:36] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:bed
-[03:00:47] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:bed
-[03:01:06] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:red_bed
-[03:01:21] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[03:01:29] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[03:01:58] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:red_carpet 20
-[03:26:45] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dead_bush 64
-[03:26:55] [Server thread/INFO]: Min_Chulo issued server command: /home
-[03:27:00] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[03:28:17] [Server thread/INFO]: Min_Chulo issued server command: /home
-[03:29:43] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[03:31:14] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[03:33:27] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[03:36:53] [Server thread/INFO]: Min_Chulo issued server command: /fly
-[03:42:08] [Server thread/WARN]: Min_Chulo moved wrongly!
-[03:46:56] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
-[03:46:57] [Server thread/INFO]: Min_Chulo left the game
-[03:47:10] [Server thread/INFO]: Stopping the server
-[03:47:10] [Server thread/INFO]: Stopping server
-[03:47:10] [Server thread/INFO]: [NameTag] Disabling NameTag v1.0
-[03:47:10] [Server thread/INFO]: [Back] Disabling Back v1.8.5
-[03:47:10] [Server thread/INFO]: ----------------------------
-[03:47:10] [Server thread/INFO]: Back Plugin Disabled!
-[03:47:10] [Server thread/INFO]: Plugin developed by GFelberg
-[03:47:10] [Server thread/INFO]: ----------------------------
-[03:47:10] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+169-69ed07a
-[03:47:10] [Server thread/INFO]: [setHome] Disabling setHome v1.0
-[03:47:10] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.154
-[03:47:10] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[03:47:10] [Server thread/INFO]: [LuckPerms] Closing storage...
-[03:47:10] [Server thread/INFO]: [LuckPerms] Goodbye!
-[03:47:10] [Server thread/INFO]: Saving players
-[03:47:10] [Server thread/INFO]: Saving worlds
-[03:47:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world' in 0.05s
-[03:47:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[03:47:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:47:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 11 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[03:47:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:47:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:47:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:47:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:13:50] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.154
+[16:13:50] [Server thread/INFO]: [setHome] Loading server plugin setHome v1.0
+[16:13:50] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+169-69ed07a
+[16:13:50] [Server thread/INFO]: [Back] Loading server plugin Back v1.8.5
+[16:13:50] [Server thread/INFO]: [NameTag] Loading server plugin NameTag v1.0
+[16:13:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:13:50] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.154
+[16:13:51] [Server thread/INFO]:         __    
+[16:13:51] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.154
+[16:13:51] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[16:13:51] [Server thread/INFO]: 
+[16:13:51] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:13:51] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:13:52] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:13:52] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:13:52] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2174ms)
+[16:13:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:13:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:13:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:13:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:13:52] [Server thread/INFO]: Preparing level "world"
+[16:13:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:13:55] [Server thread/INFO]: Time elapsed: 1963 ms
+[16:13:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:13:56] [Server thread/INFO]: Time elapsed: 504 ms
+[16:13:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:13:56] [Server thread/INFO]: Time elapsed: 399 ms
+[16:13:56] [Server thread/INFO]: [setHome] Enabling setHome v1.0
+[16:13:56] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+169-69ed07a
+[16:13:59] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[16:14:00] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[16:14:00] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[16:14:00] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[16:14:00] [Server thread/INFO]: [Essentials] Using locale en
+[16:14:01] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:14:02] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:14:02] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[16:14:02] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[16:14:02] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[16:14:02] [Server thread/INFO]: [Back] Enabling Back v1.8.5
+[16:14:02] [Server thread/ERROR]: [Back] Failed to register events for class me.GFelberg.Back.Main because net/milkbowl/vault/economy/Economy does not exist.
+[16:14:02] [Server thread/INFO]: The death_locations.yml file has been saved
+[16:14:02] [Server thread/INFO]: ----------------------------
+[16:14:02] [Server thread/INFO]: Back Plugin Enabled!
+[16:14:02] [Server thread/INFO]: Vault Plugin or Economy Plugin or both not found! Plugin will works without Vault
+[16:14:02] [Server thread/INFO]: ----------------------------
+[16:14:02] [Server thread/INFO]: [NameTag] Enabling NameTag v1.0
+[16:14:02] [Server thread/INFO]: [spark] Starting background profiler...
+[16:14:02] [Server thread/INFO]: Done preparing level "world" (10.104s)
+[16:14:02] [Server thread/INFO]: Running delayed init tasks
+[16:14:02] [Server thread/INFO]: Done (27.799s)! For help, type "help"
+[16:14:02] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[16:14:02] [Server thread/INFO]: Timings Reset
+[16:14:03] [Craft Scheduler Thread - 2 - Back/INFO]: [Back] No update available.
+[16:14:03] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 11 EssentialsX dev build(s) out of date!
+[16:14:03] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[16:14:45] [User Authenticator #0/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[16:14:54] [Server thread/INFO]: Min_Chulo joined the game
+[16:14:54] [Server thread/INFO]: Min_Chulo[/127.95.7.125:60117] logged in with entity id 43 at ([world]-646.9021585965388, 83.0, -1047.3947806994206)
+[16:15:47] [Server thread/INFO]: Min_Chulo issued server command: /ec
