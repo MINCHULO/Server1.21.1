@@ -139,3 +139,8 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:23:30] [Server thread/INFO]: Min_Chulo joined the game
 [21:23:30] [Server thread/INFO]: Min_Chulo[/127.95.7.125:36991] logged in with entity id 106 at ([world]-595.2593656883864, 78.0, -1071.8046888531812)
 [21:23:35] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: dea16cf9-12a8-4149-82b3-4eaca1eb8100, mapped to Spider['Spider'/497, uuid='dea16cf9-12a8-4149-82b3-4eaca1eb8100', l='ServerLevel[world]', x=-423.35, y=19.00, z=-1151.28, cpos=[-27, -72], tl=96, v=true], can't add Spider['Spider'/523, uuid='dea16cf9-12a8-4149-82b3-4eaca1eb8100', l='ServerLevel[world]', x=-423.68, y=19.00, z=-1152.21, cpos=[-27, -73], tl=88, v=false]
+[21:43:36] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:43:36] [Server thread/INFO]: Min_Chulo left the game
+[21:43:56] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:43:58] [Server thread/INFO]: Min_Chulo joined the game
+[21:43:58] [Server thread/INFO]: Min_Chulo[/127.95.7.125:41689] logged in with entity id 3122 at ([world]-550.9831700229297, 69.0, -1194.3904886781227)
