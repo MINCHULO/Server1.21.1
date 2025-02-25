@@ -138,3 +138,4 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:07:51] [User Authenticator #0/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
 [20:07:53] [Server thread/INFO]: NachoTrihart joined the game
 [20:07:54] [Server thread/INFO]: NachoTrihart[/127.68.194.44:51099] logged in with entity id 43 at ([world]-499.78320861157727, 97.0, -1322.1943051513463)
+[20:13:21] [Server thread/INFO]: NachoTrihart issued server command: /home
