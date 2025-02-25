@@ -206,3 +206,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [23:18:33] [Server thread/INFO]: Min_Chulo joined the game
 [23:18:33] [Server thread/INFO]: Min_Chulo[/127.95.7.125:36031] logged in with entity id 21879 at ([world]-655.8327476661332, 75.0, -1126.766244633094)
 [23:22:52] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[23:28:42] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[23:28:42] [Server thread/INFO]: Min_Chulo left the game
+[23:28:55] [User Authenticator #10/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[23:28:56] [Server thread/INFO]: Min_Chulo joined the game
+[23:28:56] [Server thread/INFO]: Min_Chulo[/127.95.7.125:55421] logged in with entity id 23861 at ([world]-654.4583090498519, 81.0, -1075.1996756978192)
+[23:36:55] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:spruce_log 64
