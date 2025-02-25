@@ -139,3 +139,8 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:07:53] [Server thread/INFO]: NachoTrihart joined the game
 [20:07:54] [Server thread/INFO]: NachoTrihart[/127.68.194.44:51099] logged in with entity id 43 at ([world]-499.78320861157727, 97.0, -1322.1943051513463)
 [20:13:21] [Server thread/INFO]: NachoTrihart issued server command: /home
+[20:20:44] [Server thread/INFO]: NachoTrihart issued server command: /home
+[20:26:36] [Server thread/INFO]: NachoTrihart issued server command: /homes
+[20:26:54] [Server thread/INFO]: NachoTrihart issued server command: /homes
+[20:27:09] [Server thread/INFO]: NachoTrihart issued server command: /homes
+[20:27:22] [Server thread/INFO]: NachoTrihart issued server command: /homes
