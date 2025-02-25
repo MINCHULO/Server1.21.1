@@ -200,3 +200,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [22:55:47] [Server thread/INFO]: Min_Chulo[/127.95.7.125:54327] logged in with entity id 18404 at ([world]-645.5, 75.0, -1091.5)
 [23:11:56] [Server thread/INFO]: Min_Chulo issued server command: /fly
 [23:15:04] [Server thread/WARN]: Min_Chulo moved wrongly!
+[23:18:25] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[23:18:25] [Server thread/INFO]: Min_Chulo left the game
+[23:18:32] [User Authenticator #9/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[23:18:33] [Server thread/INFO]: Min_Chulo joined the game
+[23:18:33] [Server thread/INFO]: Min_Chulo[/127.95.7.125:36031] logged in with entity id 21879 at ([world]-655.8327476661332, 75.0, -1126.766244633094)
+[23:22:52] [Server thread/INFO]: Min_Chulo issued server command: /fly
