@@ -198,3 +198,5 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [22:55:45] [User Authenticator #8/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
 [22:55:47] [Server thread/INFO]: Min_Chulo joined the game
 [22:55:47] [Server thread/INFO]: Min_Chulo[/127.95.7.125:54327] logged in with entity id 18404 at ([world]-645.5, 75.0, -1091.5)
+[23:11:56] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[23:15:04] [Server thread/WARN]: Min_Chulo moved wrongly!
