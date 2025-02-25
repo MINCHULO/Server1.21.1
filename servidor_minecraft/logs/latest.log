@@ -164,3 +164,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:01:21] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [03:01:29] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [03:01:58] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:red_carpet 20
+[03:26:45] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:dead_bush 64
+[03:26:55] [Server thread/INFO]: Min_Chulo issued server command: /home
+[03:27:00] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[03:28:17] [Server thread/INFO]: Min_Chulo issued server command: /home
+[03:29:43] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[03:31:14] [Server thread/INFO]: Min_Chulo issued server command: /ec
