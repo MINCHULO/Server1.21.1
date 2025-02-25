@@ -155,3 +155,12 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [02:44:04] [Server thread/INFO]: Min_Chulo[/127.106.31.25:34563] logged in with entity id 1793 at ([world]-601.2375000119209, 75.0, -1065.2676487847796)
 [02:44:13] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
 [02:44:13] [Server thread/INFO]: Min_Chulo left the game
+[02:58:16] [User Authenticator #4/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[02:58:18] [Server thread/INFO]: Min_Chulo joined the game
+[02:58:18] [Server thread/INFO]: Min_Chulo[/127.106.31.25:46329] logged in with entity id 2197 at ([world]-610.3730065664967, 75.0, -1056.646846785486)
+[03:00:36] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:bed
+[03:00:47] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:bed
+[03:01:06] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:red_bed
+[03:01:21] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[03:01:29] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[03:01:58] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:red_carpet 20
