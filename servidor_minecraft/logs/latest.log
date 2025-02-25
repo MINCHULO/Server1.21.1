@@ -145,3 +145,8 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [02:28:25] [Server thread/INFO]: Min_Chulo[/127.106.31.25:37855] logged in with entity id 686 at ([world]-600.7017298058303, 76.0, -1057.7005083473932)
 [02:29:03] [Server thread/INFO]: Min_Chulo lost connection: Timed out
 [02:29:04] [Server thread/INFO]: Min_Chulo left the game
+[02:40:58] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[02:41:00] [Server thread/INFO]: Min_Chulo joined the game
+[02:41:00] [Server thread/INFO]: Min_Chulo[/127.106.31.25:44487] logged in with entity id 1240 at ([world]-601.2375000119209, 75.0, -1065.2676487847796)
+[02:41:33] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[02:41:33] [Server thread/INFO]: Min_Chulo left the game
