@@ -170,3 +170,6 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:28:17] [Server thread/INFO]: Min_Chulo issued server command: /home
 [03:29:43] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [03:31:14] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[03:33:27] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[03:36:53] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[03:42:08] [Server thread/WARN]: Min_Chulo moved wrongly!
