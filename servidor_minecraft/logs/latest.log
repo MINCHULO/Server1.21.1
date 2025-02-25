@@ -144,3 +144,18 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:43:56] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
 [21:43:58] [Server thread/INFO]: Min_Chulo joined the game
 [21:43:58] [Server thread/INFO]: Min_Chulo[/127.95.7.125:41689] logged in with entity id 3122 at ([world]-550.9831700229297, 69.0, -1194.3904886781227)
+[22:17:49] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[22:17:49] [Server thread/INFO]: Min_Chulo left the game
+[22:19:30] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[22:19:32] [Server thread/INFO]: Min_Chulo joined the game
+[22:19:32] [Server thread/INFO]: Min_Chulo[/127.95.7.125:47735] logged in with entity id 8115 at ([world]-601.0749999880791, 76.0, -1043.080772963181)
+[22:20:03] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[22:20:03] [Server thread/INFO]: Min_Chulo left the game
+[22:20:12] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[22:20:14] [Server thread/INFO]: Min_Chulo joined the game
+[22:20:14] [Server thread/INFO]: Min_Chulo[/127.95.7.125:34345] logged in with entity id 8965 at ([world]-643.3000000119209, 75.0, -1089.9570094528056)
+[22:20:29] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[22:20:29] [Server thread/INFO]: Min_Chulo left the game
+[22:23:19] [User Authenticator #3/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[22:23:21] [Server thread/INFO]: Min_Chulo joined the game
+[22:23:21] [Server thread/INFO]: Min_Chulo[/127.95.7.125:50177] logged in with entity id 9800 at ([world]-643.3000000119209, 75.0, -1089.9570094528056)
