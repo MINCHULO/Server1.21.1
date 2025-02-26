@@ -189,3 +189,24 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [16:33:44] [User Authenticator #5/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
 [16:33:46] [Server thread/INFO]: NachoTrihart joined the game
 [16:33:46] [Server thread/INFO]: NachoTrihart[/127.36.15.159:42583] logged in with entity id 12631 at ([world_the_end]100.5, 49.0, 0.5)
+[16:34:25] [Server thread/INFO]: Min_Chulo issued server command: /home
+[16:34:46] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[16:34:46] [Server thread/INFO]: Min_Chulo left the game
+[16:34:55] [User Authenticator #6/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[16:34:57] [Server thread/INFO]: Min_Chulo joined the game
+[16:34:57] [Server thread/INFO]: Min_Chulo[/127.156.62.251:52243] logged in with entity id 14000 at ([world]-378.3019077554214, 69.0, -1225.491704061906)
+[16:38:24] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
+[16:38:31] [Server thread/INFO]: NachoTrihart issued server command: /tpaccept
+[16:38:47] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[16:38:53] [Server thread/INFO]: Min_Chulo issued server command: /home
+[16:38:54] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[16:39:15] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: a
+[16:39:17] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[16:39:17] [Server thread/INFO]: Min_Chulo left the game
+[16:39:27] [User Authenticator #7/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[16:39:29] [Server thread/INFO]: Min_Chulo joined the game
+[16:39:29] [Server thread/INFO]: Min_Chulo[/127.156.62.251:54785] logged in with entity id 17553 at ([world]-462.56459013105393, 68.0, -1195.1695140737706)
+[16:39:36] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: a
+[16:40:01] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[16:42:55] [Server thread/INFO]: Min_Chulo issued server command: /home
+[16:43:29] [Async Chat Thread - #6/INFO]: [Not Secure] Papu Min_Chulo: a
