@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740590602527
-  login: 1740590615384
+  logout: 1740590790383
+  login: 1740590747249
 money: '0'
 last-account-name: NachoTrihart
 logoutlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -473.2701770081308
+  x: -475.7817804505288
   y: 71.0
-  z: -1181.198032147948
-  yaw: -86.6087646484375
-  pitch: -7.084589004516602
+  z: -1157.699999988079
+  yaw: -117.56881713867188
+  pitch: -9.075897216796875
 lastlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world

@@ -282,3 +282,74 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [17:24:08] [Server thread/INFO]: _TeyZen_ issued server command: /home
 [17:24:41] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
 [17:25:00] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:25:36] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[17:25:40] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[17:25:41] [Server thread/INFO]: NachoTrihart left the game
+[17:25:45] [User Authenticator #12/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[17:25:47] [Server thread/INFO]: NachoTrihart joined the game
+[17:25:47] [Server thread/INFO]: NachoTrihart[/127.240.87.204:41377] logged in with entity id 34667 at ([world]-474.9754904530612, 71.0, -1180.9245792007068)
+[17:25:58] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[17:26:27] [Server thread/INFO]: BrV has made the advancement [Monster Hunter]
+[17:26:30] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[17:26:30] [Server thread/INFO]: NachoTrihart left the game
+[17:27:50] [Server thread/INFO]: Min_Chulo issued server command: /tpa _TeyZen_
+[17:27:54] [Server thread/INFO]: _TeyZen_ issued server command: /tpaccept
+[17:28:35] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[17:28:59] [Server thread/INFO]: Min_Chulo issued server command: /msg _TeyZen_ lo tiro
+[17:29:02] [Server thread/INFO]: Min_Chulo issued server command: /msg _TeyZen_ jejejejejeeje
+[17:29:13] [Server thread/INFO]: BrV was doomed to fall by Min_Chulo
+[17:29:37] [Server thread/INFO]: Min_Chulo issued server command: /tp BrV Min_Chulo
+[17:29:38] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:30:14] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:30:21] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:30:22] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:30:32] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:30:34] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:31:02] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[17:31:09] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:31:11] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:31:18] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:31:21] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:32:04] [Server thread/INFO]: BrV fell from a high place
+[17:32:38] [Server thread/INFO]: Min_Chulo issued server command: /tp BrV Min_Chulo
+[17:34:45] [Server thread/INFO]: BrV lost connection: Disconnected
+[17:34:45] [Server thread/INFO]: BrV left the game
+[17:35:07] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
+[17:35:07] [Server thread/INFO]: _TeyZen_ left the game
+[17:40:40] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[17:40:40] [Server thread/INFO]: Min_Chulo left the game
+[17:41:01] [Server thread/INFO]: Stopping the server
+[17:41:01] [Server thread/INFO]: Stopping server
+[17:41:01] [Server thread/INFO]: [NameTag] Disabling NameTag v1.0
+[17:41:01] [Server thread/INFO]: [Back] Disabling Back v1.8.5
+[17:41:01] [Server thread/INFO]: ----------------------------
+[17:41:01] [Server thread/INFO]: Back Plugin Disabled!
+[17:41:01] [Server thread/INFO]: Plugin developed by GFelberg
+[17:41:01] [Server thread/INFO]: ----------------------------
+[17:41:01] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+169-69ed07a
+[17:41:01] [Server thread/INFO]: [setHome] Disabling setHome v1.0
+[17:41:01] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.154
+[17:41:01] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[17:41:01] [Server thread/INFO]: [LuckPerms] Closing storage...
+[17:41:01] [Server thread/INFO]: [LuckPerms] Goodbye!
+[17:41:01] [Server thread/INFO]: Saving players
+[17:41:01] [Server thread/INFO]: Saving worlds
+[17:41:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 110 entity chunks, 0 poi chunks in world 'world' in 0.09s
+[17:41:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Saved 86 block chunks, 152 entity chunks, 0 poi chunks in world 'world_nether' in 0.21s
+[17:41:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 17 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[17:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

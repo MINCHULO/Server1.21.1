@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740590177740
+  lastteleport: 1740591081227
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1740591285383
   login: 1740589987670
 money: '0'
 last-account-name: BrV
 lastlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -393.09314375734397
-  y: 69.875
-  z: -1227.5520033594935
-  yaw: -68.47845458984375
-  pitch: 16.860837936401367
+  x: -549.3947883656592
+  y: 297.0337589265918
+  z: -1355.487500011921
+  yaw: -179.69996643066406
+  pitch: 90.0
+logoutlocation:
+  world: 8038ab38-042b-4a2e-b377-aca180063fc7
+  world-name: world
+  x: -560.9184483976745
+  y: 84.0
+  z: -1328.6651552122607
+  yaw: 46.274017333984375
+  pitch: 30.60002899169922
