@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740590033418
+  lastteleport: 1740590177740
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,8 +23,8 @@ last-account-name: BrV
 lastlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -43.765499399765446
-  y: 76.0
-  z: -369.98845022443186
-  yaw: -112.80007934570312
-  pitch: 29.39998435974121
+  x: -393.09314375734397
+  y: 69.875
+  z: -1227.5520033594935
+  yaw: -68.47845458984375
+  pitch: 16.860837936401367

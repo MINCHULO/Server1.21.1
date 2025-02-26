@@ -229,3 +229,56 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [17:13:53] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
 [17:13:56] [Server thread/INFO]: NachoTrihart was slain by _TeyZen_
 [17:15:09] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
+[17:15:12] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:15:29] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:15:33] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:15:52] [Server thread/INFO]: BrV was slain by NachoTrihart
+[17:16:05] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:16:06] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:16:10] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:16:17] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:16:18] [Server thread/INFO]: BrV issued server command: /tpa BrV
+[17:16:23] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[17:16:23] [Server thread/INFO]: NachoTrihart left the game
+[17:16:32] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[17:16:34] [Server thread/INFO]: NachoTrihart joined the game
+[17:16:34] [Server thread/INFO]: NachoTrihart[/127.240.87.204:45545] logged in with entity id 31894 at ([world]-409.2208543092697, 66.0, -1258.8750419903236)
+[17:16:34] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[17:16:56] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[17:17:02] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[17:17:04] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[17:17:04] [Server thread/INFO]: NachoTrihart left the game
+[17:17:12] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[17:17:13] [Server thread/INFO]: NachoTrihart joined the game
+[17:17:13] [Server thread/INFO]: NachoTrihart[/127.240.87.204:34529] logged in with entity id 31996 at ([world]-399.9575193623394, 69.0, -1218.8120678999837)
+[17:17:40] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[17:17:40] [Server thread/INFO]: NachoTrihart left the game
+[17:17:49] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[17:17:50] [Server thread/INFO]: NachoTrihart joined the game
+[17:17:50] [Server thread/INFO]: NachoTrihart[/127.240.87.204:57895] logged in with entity id 32076 at ([world]-397.6635717805155, 67.9375, -1231.3093134925452)
+[17:18:02] [Server thread/INFO]: BrV was shot by _TeyZen_
+[17:18:36] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[17:18:36] [Server thread/INFO]: NachoTrihart left the game
+[17:18:41] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[17:18:42] [Server thread/INFO]: NachoTrihart joined the game
+[17:18:42] [Server thread/INFO]: NachoTrihart[/127.240.87.204:55459] logged in with entity id 32279 at ([world]-487.038972724705, 97.0, -1312.5010211969925)
+[17:20:19] [Server thread/INFO]: _TeyZen_ issued server command: /ec
+[17:20:29] [Server thread/INFO]: BrV burned to death
+[17:21:14] [Server thread/INFO]: BrV has reached the goal [Sky's the Limit]
+[17:21:46] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[17:21:46] [Server thread/INFO]: NachoTrihart left the game
+[17:21:48] [User Authenticator #10/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[17:21:50] [Server thread/INFO]: NachoTrihart joined the game
+[17:21:50] [Server thread/INFO]: NachoTrihart[/127.240.87.204:55651] logged in with entity id 33385 at ([world]-471.5136042344062, 71.0, -1172.2070091407395)
+[17:22:33] [Server thread/INFO]: BrV has made the advancement [Suit Up]
+[17:23:14] [Server thread/INFO]: Min_Chulo issued server command: /home
+[17:23:15] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[17:23:22] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[17:23:22] [Server thread/INFO]: NachoTrihart left the game
+[17:23:34] [User Authenticator #11/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[17:23:35] [Server thread/INFO]: NachoTrihart joined the game
+[17:23:35] [Server thread/INFO]: NachoTrihart[/127.240.87.204:35341] logged in with entity id 33807 at ([world]-473.2701770081308, 71.0, -1181.198032147948)
+[17:24:04] [Server thread/INFO]: BrV has made the advancement [Cover Me with Diamonds]
+[17:24:08] [Server thread/INFO]: _TeyZen_ issued server command: /home
+[17:24:41] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
+[17:25:00] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
