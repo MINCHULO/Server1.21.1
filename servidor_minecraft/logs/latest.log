@@ -142,3 +142,12 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [16:03:03] [Server thread/INFO]: NachoTrihart joined the game
 [16:03:03] [Server thread/INFO]: NachoTrihart[/127.36.15.159:46935] logged in with entity id 1956 at ([world]-472.26918273726693, 71.0, -1180.8054195428592)
 [16:03:06] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: omaiga
+[16:03:30] [Async Chat Thread - #0/INFO]: [Not Secure] Papu NachoTrihart: llego el dueño de la guarderia
+[16:03:48] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
+[16:03:51] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[16:04:08] [Async Chat Thread - #1/INFO]: [Not Secure] Papu NachoTrihart: enta a dc
+[16:04:12] [Async Chat Thread - #1/INFO]: [Not Secure] Papu Min_Chulo: ok
+[16:06:08] [Server thread/WARN]: Min_Chulo moved wrongly!
+[16:10:00] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[16:10:28] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
+[16:10:42] [Server thread/INFO]: NachoTrihart issued server command: /tpaccept
