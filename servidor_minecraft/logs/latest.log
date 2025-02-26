@@ -213,3 +213,19 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [16:49:16] [Async Chat Thread - #8/INFO]: [Not Secure] Papu Min_Chulo: a
 [16:54:25] [Server thread/INFO]: NachoTrihart issued server command: /ec
 [17:00:29] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[17:06:53] [Server thread/INFO]: NachoTrihart issued server command: /homes
+[17:07:36] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[17:12:44] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[17:13:05] [User Authenticator #8/INFO]: UUID of player BrV is f51d1f14-c7b4-3f0c-a8c6-d431d747e33b
+[17:13:07] [Server thread/INFO]: BrV joined the game
+[17:13:07] [Server thread/INFO]: BrV[/127.127.239.245:52905] logged in with entity id 29723 at ([world]-48.5, 75.0, -352.5)
+[17:13:16] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[17:13:32] [Async Chat Thread - #10/INFO]: [Not Secure] Papu Min_Chulo: ./tpa Min_Chulo
+[17:13:38] [User Authenticator #8/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[17:13:40] [Server thread/INFO]: _TeyZen_ joined the game
+[17:13:40] [Server thread/INFO]: _TeyZen_[/127.251.91.83:57555] logged in with entity id 30298 at ([world]-449.32103506681784, 70.0, -1173.8958337769454)
+[17:13:43] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[17:13:50] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
+[17:13:53] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[17:13:56] [Server thread/INFO]: NachoTrihart was slain by _TeyZen_
+[17:15:09] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
