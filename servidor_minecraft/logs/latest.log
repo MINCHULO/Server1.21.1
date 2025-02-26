@@ -158,3 +158,34 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [16:20:26] [Server thread/INFO]: NachoTrihart issued server command: /ec
 [16:21:11] [Server thread/INFO]: NachoTrihart issued server command: /ec
 [16:22:28] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[16:25:04] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[16:26:34] [Server thread/INFO]: NachoTrihart was shot by Skeleton
+[16:26:45] [Server thread/INFO]: NachoTrihart lost connection: Timed out
+[16:26:45] [Server thread/INFO]: NachoTrihart left the game
+[16:27:11] [User Authenticator #2/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[16:27:13] [Server thread/INFO]: NachoTrihart joined the game
+[16:27:13] [Server thread/INFO]: NachoTrihart[/127.36.15.159:33783] logged in with entity id 8814 at ([world_nether]-100.75407756390092, 66.17648338098437, -170.24964940002894)
+[16:27:40] [Server thread/INFO]: NachoTrihart issued server command: /back
+[16:27:59] [Server thread/INFO]: NachoTrihart issued server command: /back
+[16:28:14] [Server thread/INFO]: NachoTrihart lost connection: Timed out
+[16:28:15] [Server thread/INFO]: NachoTrihart left the game
+[16:28:43] [User Authenticator #3/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[16:28:45] [Server thread/INFO]: NachoTrihart joined the game
+[16:28:45] [Server thread/INFO]: NachoTrihart[/127.36.15.159:49855] logged in with entity id 9244 at ([world]-396.09027032109867, 67.0, -1238.40475951408)
+[16:29:17] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[16:29:20] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
+[16:29:33] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
+[16:29:35] [Server thread/INFO]: NachoTrihart issued server command: /tpaccept
+[16:29:50] [Server thread/INFO]: NachoTrihart lost connection: Timed out
+[16:29:50] [Server thread/INFO]: NachoTrihart left the game
+[16:30:19] [User Authenticator #4/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[16:30:20] [Server thread/INFO]: NachoTrihart joined the game
+[16:30:20] [Server thread/INFO]: NachoTrihart[/127.36.15.159:41161] logged in with entity id 9712 at ([world]-402.3953770428014, 62.9375, -1302.2097939708813)
+[16:30:30] [Async Chat Thread - #2/INFO]: [Not Secure] Papu NachoTrihart: a
+[16:32:22] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
+[16:32:32] [Server thread/INFO]: Min_Chulo issued server command: /home
+[16:33:30] [Server thread/INFO]: NachoTrihart lost connection: Timed out
+[16:33:30] [Server thread/INFO]: NachoTrihart left the game
+[16:33:44] [User Authenticator #5/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[16:33:46] [Server thread/INFO]: NachoTrihart joined the game
+[16:33:46] [Server thread/INFO]: NachoTrihart[/127.36.15.159:42583] logged in with entity id 12631 at ([world_the_end]100.5, 49.0, 0.5)
