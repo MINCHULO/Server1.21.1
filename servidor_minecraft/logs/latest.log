@@ -187,3 +187,5 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [19:37:39] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [19:47:19] [Server thread/INFO]: Min_Chulo issued server command: /home
 [20:05:38] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo mossy_cobblestone_stairs 20
+[20:30:58] [Server thread/INFO]: Min_Chulo issued server command: /home
+[20:35:45] [Server thread/INFO]: Min_Chulo issued server command: /ec
