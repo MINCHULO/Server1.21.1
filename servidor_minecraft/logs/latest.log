@@ -182,3 +182,6 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [19:21:50] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo acacia_stairls 10
 [19:21:55] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo acacia_stairs 10
 [19:22:14] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo lilypad 9
+[19:37:26] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:37:36] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:37:39] [Server thread/INFO]: Min_Chulo issued server command: /ec
