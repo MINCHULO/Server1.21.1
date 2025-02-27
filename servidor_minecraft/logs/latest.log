@@ -201,3 +201,10 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:54:11] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo mossy_stone_brick_stairs 6
 [20:54:14] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stone_brick_stairs 6
 [20:54:46] [Server thread/INFO]: Min_Chulo issued server command: /home
+[21:20:23] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo sugar_cane 10
+[21:20:58] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[21:21:05] [Server thread/INFO]: Min_Chulo issued server command: /trash
+[21:26:02] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo melon 4
+[21:26:21] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo jungle_leave 20
+[21:26:28] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo jungle_leaves 20
+[21:26:55] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dripleafbig
