@@ -247,3 +247,5 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [22:43:02] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [22:44:16] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo glow_lichen 4
 [22:48:21] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo warped_trapdoor 3
+[22:48:39] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:54:39] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo kelp 2
