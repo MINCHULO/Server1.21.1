@@ -212,3 +212,10 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:34:12] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [21:34:25] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [21:36:44] [Server thread/INFO]: Min_Chulo issued server command: /home
+[21:37:59] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo campfire 5
+[21:38:31] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo oak_fence 20
+[21:39:31] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo oak_fence_gate 2
+[21:39:47] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo oak_fence 20
+[21:39:55] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo oak_fence_gate 4
+[21:40:46] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo bamboo_trapdoor 5
+[21:40:52] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo bamboo_trapdoor 10
