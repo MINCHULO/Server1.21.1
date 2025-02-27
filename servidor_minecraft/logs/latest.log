@@ -1,26 +1,26 @@
-[15:53:25] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[15:53:25] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[15:53:25] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[15:53:26] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[15:53:26] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[17:44:55] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[17:44:55] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[17:44:55] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:44:57] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[17:44:57] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - Back (1.8.5), Essentials (2.21.0-dev+169-69ed07a), LuckPerms (5.4.154), LunaColor (1.0-SNAPSHOT), NameTag (1.0), ServerOptimizer (1.0), setHome (1.0)
-[15:53:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:53:35] [ServerMain/INFO]: Loaded 1290 recipes
-[15:53:36] [ServerMain/INFO]: Loaded 1399 advancements
-[15:53:36] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[15:53:36] [Server thread/INFO]: Loading properties
-[15:53:36] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[15:53:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[15:53:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:53:37] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:53:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[15:53:39] [Server thread/INFO]: Default game type: SURVIVAL
-[15:53:39] [Server thread/INFO]: Generating keypair
-[15:53:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:53:39] [Server thread/INFO]: Using epoll channel type
-[15:53:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[15:53:39] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[15:53:39] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/LunaColor-1.0-SNAPSHOT.jar' in 'plugins/.paper-remapped'
+[17:45:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:45:06] [ServerMain/INFO]: Loaded 1290 recipes
+[17:45:06] [ServerMain/INFO]: Loaded 1399 advancements
+[17:45:06] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:45:06] [Server thread/INFO]: Loading properties
+[17:45:06] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:45:07] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:45:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:45:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:45:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:45:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:45:09] [Server thread/INFO]: Generating keypair
+[17:45:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:45:09] [Server thread/INFO]: Using epoll channel type
+[17:45:09] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:45:09] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:45:09] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/LunaColor-1.0-SNAPSHOT.jar' in 'plugins/.paper-remapped'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [PlaceholderAPI]. Please download and install these plugins to run 'LunaColor'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
@@ -30,7 +30,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[15:53:40] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'ServerOptimizer.jar' in folder 'plugins/.paper-remapped'
+[17:45:10] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'ServerOptimizer.jar' in folder 'plugins/.paper-remapped'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has been compiled by a more recent version of the Java Runtime (class file version 66.0), this version of the Java Runtime only recognizes class file versions up to 65.0
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:129) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
@@ -57,299 +57,88 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:78) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	... 9 more
-[15:53:40] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.154
-[15:53:40] [Server thread/INFO]: [setHome] Loading server plugin setHome v1.0
-[15:53:40] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+169-69ed07a
-[15:53:40] [Server thread/INFO]: [Back] Loading server plugin Back v1.8.5
-[15:53:40] [Server thread/INFO]: [NameTag] Loading server plugin NameTag v1.0
-[15:53:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:53:40] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.154
-[15:53:41] [Server thread/INFO]:         __    
-[15:53:41] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.154
-[15:53:41] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[15:53:41] [Server thread/INFO]: 
-[15:53:41] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[15:53:41] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[15:53:42] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[15:53:42] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[15:53:43] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2354ms)
-[15:53:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:53:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:53:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:53:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:53:43] [Server thread/INFO]: Preparing level "world"
-[15:53:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:53:46] [Server thread/INFO]: Time elapsed: 2213 ms
-[15:53:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:53:47] [Server thread/INFO]: Time elapsed: 416 ms
-[15:53:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:53:47] [Server thread/INFO]: Time elapsed: 207 ms
-[15:53:47] [Server thread/INFO]: [setHome] Enabling setHome v1.0
-[15:53:47] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+169-69ed07a
-[15:53:50] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[15:53:51] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[15:53:51] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[15:53:51] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[15:53:52] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[15:53:52] [Server thread/INFO]: [Essentials] Using locale en
-[15:53:52] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[15:53:53] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[15:53:53] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[15:53:53] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[15:53:53] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[15:53:53] [Server thread/INFO]: [Back] Enabling Back v1.8.5
-[15:53:53] [Server thread/ERROR]: [Back] Failed to register events for class me.GFelberg.Back.Main because net/milkbowl/vault/economy/Economy does not exist.
-[15:53:53] [Server thread/INFO]: The death_locations.yml file has been saved
-[15:53:53] [Server thread/INFO]: ----------------------------
-[15:53:53] [Server thread/INFO]: Back Plugin Enabled!
-[15:53:53] [Server thread/INFO]: Vault Plugin or Economy Plugin or both not found! Plugin will works without Vault
-[15:53:53] [Server thread/INFO]: ----------------------------
-[15:53:53] [Server thread/INFO]: [NameTag] Enabling NameTag v1.0
-[15:53:53] [Server thread/INFO]: [spark] Starting background profiler...
-[15:53:54] [Server thread/INFO]: Done preparing level "world" (11.336s)
-[15:53:54] [Server thread/INFO]: Running delayed init tasks
-[15:53:54] [Server thread/INFO]: Done (30.561s)! For help, type "help"
-[15:53:54] [Server thread/INFO]: Timings Reset
-[15:53:54] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[15:53:54] [Craft Scheduler Thread - 2 - Back/INFO]: [Back] No update available.
-[15:53:55] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 11 EssentialsX dev build(s) out of date!
-[15:53:55] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[15:54:45] [User Authenticator #0/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[15:54:54] [Server thread/INFO]: Min_Chulo joined the game
-[15:54:55] [Server thread/INFO]: Min_Chulo[/127.156.62.251:56419] logged in with entity id 106 at ([world]-649.6999999880791, 77.0, -1049.699999988079)
-[16:03:01] [User Authenticator #1/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[16:03:03] [Server thread/INFO]: NachoTrihart joined the game
-[16:03:03] [Server thread/INFO]: NachoTrihart[/127.36.15.159:46935] logged in with entity id 1956 at ([world]-472.26918273726693, 71.0, -1180.8054195428592)
-[16:03:06] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: omaiga
-[16:03:30] [Async Chat Thread - #0/INFO]: [Not Secure] Papu NachoTrihart: llego el dueño de la guarderia
-[16:03:48] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
-[16:03:51] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[16:04:08] [Async Chat Thread - #1/INFO]: [Not Secure] Papu NachoTrihart: enta a dc
-[16:04:12] [Async Chat Thread - #1/INFO]: [Not Secure] Papu Min_Chulo: ok
-[16:06:08] [Server thread/WARN]: Min_Chulo moved wrongly!
-[16:10:00] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[16:10:28] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
-[16:10:42] [Server thread/INFO]: NachoTrihart issued server command: /tpaccept
-[16:17:05] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
-[16:17:07] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[16:17:25] [Server thread/INFO]: NachoTrihart issued server command: /homes
-[16:20:16] [Server thread/INFO]: NachoTrihart issued server command: /EC
-[16:20:26] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[16:21:11] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[16:22:28] [Server thread/INFO]: Min_Chulo issued server command: /fly
-[16:25:04] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[16:26:34] [Server thread/INFO]: NachoTrihart was shot by Skeleton
-[16:26:45] [Server thread/INFO]: NachoTrihart lost connection: Timed out
-[16:26:45] [Server thread/INFO]: NachoTrihart left the game
-[16:27:11] [User Authenticator #2/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[16:27:13] [Server thread/INFO]: NachoTrihart joined the game
-[16:27:13] [Server thread/INFO]: NachoTrihart[/127.36.15.159:33783] logged in with entity id 8814 at ([world_nether]-100.75407756390092, 66.17648338098437, -170.24964940002894)
-[16:27:40] [Server thread/INFO]: NachoTrihart issued server command: /back
-[16:27:59] [Server thread/INFO]: NachoTrihart issued server command: /back
-[16:28:14] [Server thread/INFO]: NachoTrihart lost connection: Timed out
-[16:28:15] [Server thread/INFO]: NachoTrihart left the game
-[16:28:43] [User Authenticator #3/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[16:28:45] [Server thread/INFO]: NachoTrihart joined the game
-[16:28:45] [Server thread/INFO]: NachoTrihart[/127.36.15.159:49855] logged in with entity id 9244 at ([world]-396.09027032109867, 67.0, -1238.40475951408)
-[16:29:17] [Server thread/INFO]: Min_Chulo issued server command: /fly
-[16:29:20] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
-[16:29:33] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
-[16:29:35] [Server thread/INFO]: NachoTrihart issued server command: /tpaccept
-[16:29:50] [Server thread/INFO]: NachoTrihart lost connection: Timed out
-[16:29:50] [Server thread/INFO]: NachoTrihart left the game
-[16:30:19] [User Authenticator #4/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[16:30:20] [Server thread/INFO]: NachoTrihart joined the game
-[16:30:20] [Server thread/INFO]: NachoTrihart[/127.36.15.159:41161] logged in with entity id 9712 at ([world]-402.3953770428014, 62.9375, -1302.2097939708813)
-[16:30:30] [Async Chat Thread - #2/INFO]: [Not Secure] Papu NachoTrihart: a
-[16:32:22] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
-[16:32:32] [Server thread/INFO]: Min_Chulo issued server command: /home
-[16:33:30] [Server thread/INFO]: NachoTrihart lost connection: Timed out
-[16:33:30] [Server thread/INFO]: NachoTrihart left the game
-[16:33:44] [User Authenticator #5/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[16:33:46] [Server thread/INFO]: NachoTrihart joined the game
-[16:33:46] [Server thread/INFO]: NachoTrihart[/127.36.15.159:42583] logged in with entity id 12631 at ([world_the_end]100.5, 49.0, 0.5)
-[16:34:25] [Server thread/INFO]: Min_Chulo issued server command: /home
-[16:34:46] [Server thread/INFO]: Min_Chulo lost connection: Timed out
-[16:34:46] [Server thread/INFO]: Min_Chulo left the game
-[16:34:55] [User Authenticator #6/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[16:34:57] [Server thread/INFO]: Min_Chulo joined the game
-[16:34:57] [Server thread/INFO]: Min_Chulo[/127.156.62.251:52243] logged in with entity id 14000 at ([world]-378.3019077554214, 69.0, -1225.491704061906)
-[16:38:24] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
-[16:38:31] [Server thread/INFO]: NachoTrihart issued server command: /tpaccept
-[16:38:47] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[16:38:53] [Server thread/INFO]: Min_Chulo issued server command: /home
-[16:38:54] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[16:39:15] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: a
-[16:39:17] [Server thread/INFO]: Min_Chulo lost connection: Timed out
-[16:39:17] [Server thread/INFO]: Min_Chulo left the game
-[16:39:27] [User Authenticator #7/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[16:39:29] [Server thread/INFO]: Min_Chulo joined the game
-[16:39:29] [Server thread/INFO]: Min_Chulo[/127.156.62.251:54785] logged in with entity id 17553 at ([world]-462.56459013105393, 68.0, -1195.1695140737706)
-[16:39:36] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: a
-[16:40:01] [Server thread/INFO]: Min_Chulo issued server command: /fly
-[16:42:55] [Server thread/INFO]: Min_Chulo issued server command: /home
-[16:43:29] [Async Chat Thread - #6/INFO]: [Not Secure] Papu Min_Chulo: a
-[16:49:16] [Async Chat Thread - #8/INFO]: [Not Secure] Papu Min_Chulo: a
-[16:54:25] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[17:00:29] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[17:06:53] [Server thread/INFO]: NachoTrihart issued server command: /homes
-[17:07:36] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[17:12:44] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[17:13:05] [User Authenticator #8/INFO]: UUID of player BrV is f51d1f14-c7b4-3f0c-a8c6-d431d747e33b
-[17:13:07] [Server thread/INFO]: BrV joined the game
-[17:13:07] [Server thread/INFO]: BrV[/127.127.239.245:52905] logged in with entity id 29723 at ([world]-48.5, 75.0, -352.5)
-[17:13:16] [Server thread/INFO]: Min_Chulo issued server command: /fly
-[17:13:32] [Async Chat Thread - #10/INFO]: [Not Secure] Papu Min_Chulo: ./tpa Min_Chulo
-[17:13:38] [User Authenticator #8/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
-[17:13:40] [Server thread/INFO]: _TeyZen_ joined the game
-[17:13:40] [Server thread/INFO]: _TeyZen_[/127.251.91.83:57555] logged in with entity id 30298 at ([world]-449.32103506681784, 70.0, -1173.8958337769454)
-[17:13:43] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[17:13:50] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:13:53] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:13:56] [Server thread/INFO]: NachoTrihart was slain by _TeyZen_
-[17:15:09] [Server thread/INFO]: NachoTrihart issued server command: /tpa Min_Chulo
-[17:15:12] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:15:29] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:15:33] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:15:52] [Server thread/INFO]: BrV was slain by NachoTrihart
-[17:16:05] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:16:06] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:16:10] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:16:17] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:16:18] [Server thread/INFO]: BrV issued server command: /tpa BrV
-[17:16:23] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[17:16:23] [Server thread/INFO]: NachoTrihart left the game
-[17:16:32] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[17:16:34] [Server thread/INFO]: NachoTrihart joined the game
-[17:16:34] [Server thread/INFO]: NachoTrihart[/127.240.87.204:45545] logged in with entity id 31894 at ([world]-409.2208543092697, 66.0, -1258.8750419903236)
-[17:16:34] [Server thread/INFO]: _TeyZen_ issued server command: /ec
-[17:16:56] [Server thread/INFO]: _TeyZen_ issued server command: /ec
-[17:17:02] [Server thread/INFO]: _TeyZen_ issued server command: /ec
-[17:17:04] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[17:17:04] [Server thread/INFO]: NachoTrihart left the game
-[17:17:12] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[17:17:13] [Server thread/INFO]: NachoTrihart joined the game
-[17:17:13] [Server thread/INFO]: NachoTrihart[/127.240.87.204:34529] logged in with entity id 31996 at ([world]-399.9575193623394, 69.0, -1218.8120678999837)
-[17:17:40] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[17:17:40] [Server thread/INFO]: NachoTrihart left the game
-[17:17:49] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[17:17:50] [Server thread/INFO]: NachoTrihart joined the game
-[17:17:50] [Server thread/INFO]: NachoTrihart[/127.240.87.204:57895] logged in with entity id 32076 at ([world]-397.6635717805155, 67.9375, -1231.3093134925452)
-[17:18:02] [Server thread/INFO]: BrV was shot by _TeyZen_
-[17:18:36] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[17:18:36] [Server thread/INFO]: NachoTrihart left the game
-[17:18:41] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[17:18:42] [Server thread/INFO]: NachoTrihart joined the game
-[17:18:42] [Server thread/INFO]: NachoTrihart[/127.240.87.204:55459] logged in with entity id 32279 at ([world]-487.038972724705, 97.0, -1312.5010211969925)
-[17:20:19] [Server thread/INFO]: _TeyZen_ issued server command: /ec
-[17:20:29] [Server thread/INFO]: BrV burned to death
-[17:21:14] [Server thread/INFO]: BrV has reached the goal [Sky's the Limit]
-[17:21:46] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[17:21:46] [Server thread/INFO]: NachoTrihart left the game
-[17:21:48] [User Authenticator #10/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[17:21:50] [Server thread/INFO]: NachoTrihart joined the game
-[17:21:50] [Server thread/INFO]: NachoTrihart[/127.240.87.204:55651] logged in with entity id 33385 at ([world]-471.5136042344062, 71.0, -1172.2070091407395)
-[17:22:33] [Server thread/INFO]: BrV has made the advancement [Suit Up]
-[17:23:14] [Server thread/INFO]: Min_Chulo issued server command: /home
-[17:23:15] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[17:23:22] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[17:23:22] [Server thread/INFO]: NachoTrihart left the game
-[17:23:34] [User Authenticator #11/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[17:23:35] [Server thread/INFO]: NachoTrihart joined the game
-[17:23:35] [Server thread/INFO]: NachoTrihart[/127.240.87.204:35341] logged in with entity id 33807 at ([world]-473.2701770081308, 71.0, -1181.198032147948)
-[17:24:04] [Server thread/INFO]: BrV has made the advancement [Cover Me with Diamonds]
-[17:24:08] [Server thread/INFO]: _TeyZen_ issued server command: /home
-[17:24:41] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
-[17:25:00] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:25:36] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[17:25:40] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[17:25:41] [Server thread/INFO]: NachoTrihart left the game
-[17:25:45] [User Authenticator #12/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[17:25:47] [Server thread/INFO]: NachoTrihart joined the game
-[17:25:47] [Server thread/INFO]: NachoTrihart[/127.240.87.204:41377] logged in with entity id 34667 at ([world]-474.9754904530612, 71.0, -1180.9245792007068)
-[17:25:58] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[17:26:27] [Server thread/INFO]: BrV has made the advancement [Monster Hunter]
-[17:26:30] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[17:26:30] [Server thread/INFO]: NachoTrihart left the game
-[17:27:50] [Server thread/INFO]: Min_Chulo issued server command: /tpa _TeyZen_
-[17:27:54] [Server thread/INFO]: _TeyZen_ issued server command: /tpaccept
-[17:28:35] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[17:28:59] [Server thread/INFO]: Min_Chulo issued server command: /msg _TeyZen_ lo tiro
-[17:29:02] [Server thread/INFO]: Min_Chulo issued server command: /msg _TeyZen_ jejejejejeeje
-[17:29:13] [Server thread/INFO]: BrV was doomed to fall by Min_Chulo
-[17:29:37] [Server thread/INFO]: Min_Chulo issued server command: /tp BrV Min_Chulo
-[17:29:38] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:30:14] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:30:21] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:30:22] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:30:32] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:30:34] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:31:02] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[17:31:09] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:31:11] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:31:18] [Server thread/INFO]: BrV issued server command: /tpa Min_Chulo
-[17:31:21] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[17:32:04] [Server thread/INFO]: BrV fell from a high place
-[17:32:38] [Server thread/INFO]: Min_Chulo issued server command: /tp BrV Min_Chulo
-[17:34:45] [Server thread/INFO]: BrV lost connection: Disconnected
-[17:34:45] [Server thread/INFO]: BrV left the game
-[17:35:07] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
-[17:35:07] [Server thread/INFO]: _TeyZen_ left the game
-[17:40:40] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
-[17:40:40] [Server thread/INFO]: Min_Chulo left the game
-[17:41:01] [Server thread/INFO]: Stopping the server
-[17:41:01] [Server thread/INFO]: Stopping server
-[17:41:01] [Server thread/INFO]: [NameTag] Disabling NameTag v1.0
-[17:41:01] [Server thread/INFO]: [Back] Disabling Back v1.8.5
-[17:41:01] [Server thread/INFO]: ----------------------------
-[17:41:01] [Server thread/INFO]: Back Plugin Disabled!
-[17:41:01] [Server thread/INFO]: Plugin developed by GFelberg
-[17:41:01] [Server thread/INFO]: ----------------------------
-[17:41:01] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+169-69ed07a
-[17:41:01] [Server thread/INFO]: [setHome] Disabling setHome v1.0
-[17:41:01] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.154
-[17:41:01] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[17:41:01] [Server thread/INFO]: [LuckPerms] Closing storage...
-[17:41:01] [Server thread/INFO]: [LuckPerms] Goodbye!
-[17:41:01] [Server thread/INFO]: Saving players
-[17:41:01] [Server thread/INFO]: Saving worlds
-[17:41:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 110 entity chunks, 0 poi chunks in world 'world' in 0.09s
-[17:41:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[17:41:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Saved 86 block chunks, 152 entity chunks, 0 poi chunks in world 'world_nether' in 0.21s
-[17:41:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[17:41:02] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 17 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[17:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:41:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:45:10] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.154
+[17:45:10] [Server thread/INFO]: [setHome] Loading server plugin setHome v1.0
+[17:45:10] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+169-69ed07a
+[17:45:10] [Server thread/INFO]: [Back] Loading server plugin Back v1.8.5
+[17:45:10] [Server thread/INFO]: [NameTag] Loading server plugin NameTag v1.0
+[17:45:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:45:10] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.154
+[17:45:11] [Server thread/INFO]:         __    
+[17:45:11] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.154
+[17:45:11] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[17:45:11] [Server thread/INFO]: 
+[17:45:11] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[17:45:11] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[17:45:12] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[17:45:12] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[17:45:12] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1975ms)
+[17:45:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:45:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:45:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:45:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:45:12] [Server thread/INFO]: Preparing level "world"
+[17:45:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:45:16] [Server thread/INFO]: Time elapsed: 1830 ms
+[17:45:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:45:16] [Server thread/INFO]: Time elapsed: 391 ms
+[17:45:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:45:17] [Server thread/INFO]: Time elapsed: 199 ms
+[17:45:17] [Server thread/INFO]: [setHome] Enabling setHome v1.0
+[17:45:17] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+169-69ed07a
+[17:45:19] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[17:45:20] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[17:45:20] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[17:45:20] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[17:45:21] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[17:45:21] [Server thread/INFO]: [Essentials] Using locale en
+[17:45:21] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:45:22] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:45:22] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[17:45:22] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[17:45:22] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[17:45:22] [Server thread/INFO]: [Back] Enabling Back v1.8.5
+[17:45:22] [Server thread/ERROR]: [Back] Failed to register events for class me.GFelberg.Back.Main because net/milkbowl/vault/economy/Economy does not exist.
+[17:45:22] [Server thread/INFO]: The death_locations.yml file has been saved
+[17:45:22] [Server thread/INFO]: ----------------------------
+[17:45:22] [Server thread/INFO]: Back Plugin Enabled!
+[17:45:22] [Server thread/INFO]: Vault Plugin or Economy Plugin or both not found! Plugin will works without Vault
+[17:45:22] [Server thread/INFO]: ----------------------------
+[17:45:22] [Server thread/INFO]: [NameTag] Enabling NameTag v1.0
+[17:45:22] [Server thread/INFO]: [spark] Starting background profiler...
+[17:45:23] [Server thread/INFO]: Done preparing level "world" (10.460s)
+[17:45:23] [Server thread/INFO]: Running delayed init tasks
+[17:45:23] [Server thread/INFO]: Done (29.309s)! For help, type "help"
+[17:45:23] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[17:45:23] [Server thread/INFO]: Timings Reset
+[17:45:23] [Craft Scheduler Thread - 2 - Back/INFO]: [Back] No update available.
+[17:45:23] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 11 EssentialsX dev build(s) out of date!
+[17:45:23] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[17:45:53] [User Authenticator #0/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:46:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@69bbdab6[id=c64d5450-ef6c-3309-ac03-cff3f3f0edaf,name=Min_Chulo,properties={}] lost connection: Timed out
+[17:46:38] [User Authenticator #0/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:46:41] [Server thread/INFO]: Min_Chulo joined the game
+[17:46:42] [Server thread/INFO]: Min_Chulo[/127.68.194.44:32787] logged in with entity id 27 at ([world]-657.0116723093032, 89.0, -1074.6723527949684)
+[17:50:28] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[17:50:28] [Server thread/INFO]: Min_Chulo left the game
