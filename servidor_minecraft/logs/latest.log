@@ -156,3 +156,6 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [18:34:24] [Server thread/INFO]: Min_Chulo issued server command: /fly
 [18:36:25] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [18:55:26] [Server thread/INFO]: Min_Chulo issued server command: /home
+[19:01:21] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:02:15] [Server thread/INFO]: Min_Chulo issued server command: /home
+[19:02:30] [Server thread/INFO]: Min_Chulo issued server command: /ec
