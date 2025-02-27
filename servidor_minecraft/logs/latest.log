@@ -243,3 +243,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [22:24:40] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
 [22:31:24] [Server thread/INFO]: Min_Chulo issued server command: /gamemode spectator
 [22:31:29] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[22:41:34] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:43:02] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[22:44:16] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo glow_lichen 4
+[22:48:21] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo warped_trapdoor 3
