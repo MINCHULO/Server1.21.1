@@ -219,3 +219,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:39:55] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo oak_fence_gate 4
 [21:40:46] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo bamboo_trapdoor 5
 [21:40:52] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo bamboo_trapdoor 10
+[21:48:40] [Server thread/INFO]: Min_Chulo issued server command: /home
+[21:49:58] [Server thread/INFO]: Min_Chulo issued server command: /trash
+[21:51:23] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[21:51:34] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[21:53:29] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[21:55:23] [Server thread/WARN]: Min_Chulo moved wrongly!
