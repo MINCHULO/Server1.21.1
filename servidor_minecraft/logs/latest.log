@@ -165,3 +165,20 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [19:12:37] [Server thread/WARN]: Min_Chulo moved wrongly!
 [19:15:13] [Server thread/INFO]: Min_Chulo issued server command: /home
 [19:15:57] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:andesite 128
+[19:16:25] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:short_grass 40
+[19:16:42] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:acacia_slab 61
+[19:17:38] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:coarse_dirt 64
+[19:18:01] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo mangrove_stairs 36
+[19:18:26] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo mangrove_slab 28
+[19:18:48] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo mossy_cobblestone_slab 26
+[19:19:09] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo andesite_stairs 26
+[19:19:15] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo andesite_slab 26
+[19:19:38] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo sea_grass 24
+[19:19:46] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo seagrass 24
+[19:20:36] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo oak_trapdoor 2
+[19:20:51] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo mangrove_trapdoor 14
+[19:21:23] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stone_stairs 12
+[19:21:36] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_mangrove_log 10
+[19:21:50] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo acacia_stairls 10
+[19:21:55] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo acacia_stairs 10
+[19:22:14] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo lilypad 9
