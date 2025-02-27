@@ -148,3 +148,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [18:07:36] [Server thread/WARN]: Min_Chulo moved wrongly!
 [18:20:07] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [18:22:31] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:25:45] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[18:25:45] [Server thread/INFO]: Min_Chulo left the game
+[18:32:28] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[18:32:37] [Server thread/INFO]: Min_Chulo joined the game
+[18:32:37] [Server thread/INFO]: Min_Chulo[/127.68.194.44:34541] logged in with entity id 4747 at ([world]-634.8482035021085, 83.0, -1058.8272843767577)
+[18:34:24] [Server thread/INFO]: Min_Chulo issued server command: /fly
