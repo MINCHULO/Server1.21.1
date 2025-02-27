@@ -225,3 +225,8 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:51:34] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
 [21:53:29] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
 [21:55:23] [Server thread/WARN]: Min_Chulo moved wrongly!
+[22:05:48] [Server thread/INFO]: Min_Chulo issued server command: /home
+[22:06:47] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo seagrass 37
+[22:07:00] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo andesite_stairs 25
+[22:07:16] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo lily_pad 25
+[22:07:28] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo sea_pickle 22
