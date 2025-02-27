@@ -208,3 +208,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:26:21] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo jungle_leave 20
 [21:26:28] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo jungle_leaves 20
 [21:26:55] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dripleafbig
+[21:34:05] [Server thread/INFO]: Min_Chulo issued server command: /give
+[21:34:12] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[21:34:25] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[21:36:44] [Server thread/INFO]: Min_Chulo issued server command: /home
